@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Truffle and blockchain ignore files
+./node_modules
+.env
+./blockchain/truffle/build
+./blockchain/chain
