@@ -3,7 +3,6 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Tt]emp/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -35,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Truffle and blockchain ignore files
+./node_modules
+.env
+./blockchain/truffle/build
+./blockchain/chain
