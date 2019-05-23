@@ -25,7 +25,7 @@ public class PlayerHealth : MonoBehaviour
     void Awake ()
     {
         // Setting up the references.
-        anim = GetComponent <Animator> ();
+        anim = GetComponentInChildren <Animator> ();
         playerAudio = GetComponent <AudioSource> ();
         playerMovement = GetComponent <PlayerMovement> ();
         playerShooting = GetComponentInChildren <PlayerShooting> ();
