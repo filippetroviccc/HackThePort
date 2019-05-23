@@ -5,8 +5,12 @@ public class SwordScript : MonoBehaviour
 {
     private readonly List<Collider2D> collidersInside = new List<Collider2D>();
 
+    public GameObject slashObject;
+
     public void Attack()
     {
+        slashObject.SetActive(true);
+
         foreach (var col in collidersInside)
         {
             var colObj = col.gameObject;
