@@ -50,6 +50,9 @@
             <e p="EnemyHealth.cs" t="Include" />
             <e p="EnemyMovement.cs" t="Include" />
           </e>
+          <e p="Hud" t="Include">
+            <e p="BulletHud.cs" t="Include" />
+          </e>
           <e p="Managers" t="Include">
             <e p="EnemyManager.cs" t="Include" />
             <e p="GameOverManager.cs" t="Include" />
@@ -65,6 +68,7 @@
             <e p="SwordScript.cs" t="Include" />
           </e>
           <e p="Util" t="Include">
+            <e p="CameraFolow.cs" t="Include" />
             <e p="FadeOut.cs" t="Include" />
           </e>
         </e>

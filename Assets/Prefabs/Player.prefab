@@ -241,6 +241,7 @@ MonoBehaviour:
   gunObject: {fileID: 1976153952165466993}
   animator: {fileID: 9021358801586744919}
   speed: 0.1
+  rotateAnimationTolerance: 0.001
 --- !u!114 &2131947552993165439
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -498,7 +499,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 2069209592759022637, guid: 4ca8a7d4c641be74eafbe78e462f91f3,
     type: 3}
+  maxNumOfBullets: 3
+  currNumOfBullets: 0
   force: 2000
+  bulletShower: {fileID: 0}
 --- !u!1001 &594450615
 PrefabInstance:
   m_ObjectHideFlags: 0

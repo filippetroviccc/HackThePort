@@ -11,7 +11,14 @@ public class Player : MonoBehaviour
 
     public Animator animator;
     public float speed;
+    [SerializeField] double rotateAnimationTolerance = 0.001f;
 
+    private GunScript gunScript;
+
+    private void Start()
+    {
+        gunScript = gunObject.GetComponent<GunScript>();
+    }
 
     void Update()
     {
@@ -40,8 +47,15 @@ public class Player : MonoBehaviour
             var mouse = Input.mousePosition;
             var screenPoint = Camera.main.WorldToScreenPoint(transform.localPosition);
             var offset = new Vector2(mouse.x - screenPoint.x, mouse.y - screenPoint.y);
-            var angle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg;
-            transform.rotation = Quaternion.Euler(0, 0, angle - 90);
+            var newAngle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg - 90; //weird offset
+
+            var lastRotation = transform.rotation;
+            var newRotation = transform.rotation = Quaternion.Euler(0, 0, newAngle);
+
+            var angleDiff = Quaternion.Angle(newRotation, lastRotation) - 90; //weird offset
+
+            if (!animator.GetBool(IsMoving))
+                animator.SetBool(IsMoving, angleDiff > rotateAnimationTolerance);
         }
 
         void HandleAttack()
@@ -53,17 +67,16 @@ public class Player : MonoBehaviour
             {
                 swordObject.GetComponent<SwordScript>().Attack();
                 isSwordAttacking = true;
-
             }
 
             void AttackWithGun()
             {
-                gunObject.GetComponent<GunScript>().Fire();
+                gunScript.Fire();
                 isGunAttacking = true;
             }
 
             if (Input.GetMouseButtonDown(0)) AttackWithSword();
-            else if (Input.GetMouseButtonDown(1)) AttackWithGun();
+            else if (Input.GetMouseButtonDown(1) && gunScript.currNumOfBullets > 0) AttackWithGun();
 
             animator.SetBool(IsSwordAttacking, isSwordAttacking);
             animator.SetBool(IsGunAttacking, isGunAttacking);
