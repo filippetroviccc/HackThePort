@@ -159,7 +159,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -236,7 +236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af1ee6c24a86bb84681f3293df2ba602, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
   swordObject: {fileID: 1976153951700127268}
   gunObject: {fileID: 1976153952165466993}
   animator: {fileID: 9021358801586744919}
@@ -492,12 +491,12 @@ PrefabInstance:
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.048
+      value: -0.417
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.252
+      value: 0.304
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
@@ -517,12 +516,12 @@ PrefabInstance:
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.11023941
+      value: 0.4498927
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99390507
+      value: 0.8930826
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
@@ -542,7 +541,22 @@ PrefabInstance:
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 12.658001
+      value: 53.474003
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.17857002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2714152
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.9121069
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204098950797b8c4ebfb203394d41927, type: 3}
