@@ -1,7 +1,13 @@
 fileFormatVersion: 2
-guid: 0daf94c63ff17174cb9a1744478083ec
+guid: 9c66d50d217fbd34c891c2d1349362dc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1091710008011594977
+    second: pirat_walk_0
+  - first:
+      213: 7513394846263733604
+    second: pirat_walk_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -70,9 +76,75 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pirat_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 766
+        height: 938
+      alignment: 9
+      pivot: {x: 0.25507376, y: 0.45555234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b2c05860f2ca4d8758a533c8ab7d9
+      internalID: -1091710008011594977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_walk_1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1082
+        width: 834
+        height: 900
+      alignment: 9
+      pivot: {x: 0.32003498, y: 0.4397784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d1529dd6048343beead023b037f83
+      internalID: 7513394846263733604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

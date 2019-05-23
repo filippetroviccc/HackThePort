@@ -1,7 +1,34 @@
 fileFormatVersion: 2
-guid: ace3c84607e50284fb9f4dda88ac0b77
+guid: cd89926bae398fa40a81ffcd5530fbbe
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8631877359259615991
+    second: pirat_puc_0
+  - first:
+      213: -2752848881870088922
+    second: pirat_puc_1
+  - first:
+      213: 9062466026250002939
+    second: pirat_puc_2
+  - first:
+      213: -211108823692529786
+    second: pirat_puc_3
+  - first:
+      213: -5843538709487987476
+    second: pirat_puc_4
+  - first:
+      213: 8121760065097041862
+    second: pirat_puc_5
+  - first:
+      213: -3616362965213080509
+    second: pirat_puc_7
+  - first:
+      213: 1904629284651030281
+    second: pirat_puc_8
+  - first:
+      213: -3824070787624803765
+    second: pirat_puc_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +67,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +97,222 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pirat_puc_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1071
+        width: 628
+        height: 757
+      alignment: 9
+      pivot: {x: 0.1879747, y: 0.4339098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b19b759312d864296950b2127ce30f
+      internalID: 8631877359259615991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1823
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919c2097c383794cb580deeacc9b050
+      internalID: -2752848881870088922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_2
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1072
+        width: 629
+        height: 758
+      alignment: 9
+      pivot: {x: 0.18184285, y: 0.43949726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2639f73450d674283c20ba35c9566b
+      internalID: 9062466026250002939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_3
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1825
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9db88d647b3f4ab414ee7be161791
+      internalID: -211108823692529786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_4
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1072
+        width: 958
+        height: 787
+      alignment: 9
+      pivot: {x: 0.12573063, y: 0.42053643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19adfc35942e45842b1117c3f53ba62d
+      internalID: -5843538709487987476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_5
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1804
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac35bfdf41fd845bd06f57f646b27a
+      internalID: 8121760065097041862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1061
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fab72e074f4e24e8a8be9bf909dc4b
+      internalID: -3616362965213080509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_8
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1061
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeef0e160186ea478a2d050501d7372
+      internalID: 1904629284651030281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirat_puc_9
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1059
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436240bd7cdd464cb33b83db9ca9d1f
+      internalID: -3824070787624803765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
