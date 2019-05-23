@@ -1,30 +1,37 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 namespace CompleteProject
 {
     public class GameOverManager : MonoBehaviour
     {
-        public PlayerHealth playerHealth;       // Reference to the player's health.
-
-
-        Animator anim;                          // Reference to the animator component.
-
-
-        void Awake ()
+        public int MiningTime = 10;
+        public static GameOverManager instance
         {
-            // Set up the reference.
-            anim = GetComponent <Animator> ();
-        }
-
-
-        void Update ()
-        {
-            // If the player has run out of health...
-            if(playerHealth.currentHealth <= 0)
+            get
             {
-                // ... tell the animator the game is over.
-                anim.SetTrigger ("GameOver");
+                if(singletonInstance == null)
+                {
+                    singletonInstance = new GameOverManager();
+                }
+                return singletonInstance;
             }
         }
+        private static GameOverManager singletonInstance;
+
+        public void FinishGame(bool victory)
+        {
+            StartCoroutine(TransferFunds());
+        }
+
+        private IEnumerator TransferFunds()
+        {
+            // TODO: add winner/looser wallets as function params
+            // TODO: show popup: You are harvesting treasure from blockchain
+            yield return new WaitForSeconds(MiningTime);
+            yield return 13;
+                
+        }
+
     }
 }
