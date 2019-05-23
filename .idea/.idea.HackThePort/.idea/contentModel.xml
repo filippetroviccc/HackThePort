@@ -141,11 +141,23 @@
             </e>
           </e>
         </e>
+        <e p="PeerPlay" t="Include">
+          <e p="Ripple Water" t="Include">
+            <e p="_scripts" t="Include">
+              <e p="CollisionScript.cs" t="Include" />
+            </e>
+            <e p="_shaders" t="Include">
+              <e p="RippleWater.shader" t="Include" />
+            </e>
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="GunScript.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="SwordScript.cs" t="Include" />
         </e>
+        <e p="Wiggle.cs" t="Include" />
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />
       <e p="LoomSDK.csproj" t="IncludeRecursive" />
