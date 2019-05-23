@@ -14,51 +14,51 @@ public class EnemyAttack : MonoBehaviour
     float timer;
 
 
-    void Awake ()
+    void Awake()
     {
-        player = GameObject.FindGameObjectWithTag ("Player");
+        player = GameObject.FindGameObjectWithTag("Player");
         playerHealth = player.GetComponent<PlayerHealth>();
         enemyHealth = GetComponent<EnemyHealth>();
-        anim = GetComponent <Animator> ();
+        anim = GetComponent<Animator>();
     }
 
 
-    void OnTriggerEnter2D (Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("player in range");
-        if(other.gameObject == player)
+        if (other.gameObject == player)
         {
             playerInRange = true;
         }
     }
 
 
-    void OnTriggerExit2D (Collider2D other)
+    void OnTriggerExit2D(Collider2D other)
     {
-        if(other.gameObject == player)
+        if (other.gameObject == player)
         {
             playerInRange = false;
         }
     }
 
 
-    void Update ()
+    void Update()
     {
         timer += Time.deltaTime;
 
-        if(timer >= timeBetweenAttacks && playerInRange/* && enemyHealth.currentHealth > 0*/)
+        if (timer >= timeBetweenAttacks && playerInRange /* && enemyHealth.currentHealth > 0*/)
         {
-            Attack ();
+            Attack();
         }
 
         if (playerHealth.currentHealth <= 0)
         {
-            anim.SetTrigger("PlayerDead");
+            //anim.SetTrigger("PlayerDead");
         }
     }
 
 
-    void Attack ()
+    void Attack()
     {
         timer = 0f;
 
