@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+              <caret line="12" column="29" selection-start-line="12" selection-end-line="13" />
               <folding>
                 <marker date="1558601445369" expanded="true" signature="55:2417" ph="{...}" />
                 <marker date="1558601445369" expanded="true" signature="491:2415" ph="{...}" />
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShipController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="268">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding>
                 <marker date="1558604430602" expanded="true" signature="63:1089" ph="{...}" />
                 <marker date="1558604430602" expanded="true" signature="182:989" ph="{...}" />
@@ -111,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1440" />
@@ -189,12 +189,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558562121620</updated>
       <workItem from="1558562133037" duration="14715000" />
-      <workItem from="1558600295433" duration="2140000" />
+      <workItem from="1558600295433" duration="2765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16855000" />
+    <option name="totallyTimeSpent" value="17480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,7 +206,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13691275" />
@@ -292,7 +292,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+          <caret line="12" column="29" selection-start-line="12" selection-end-line="13" />
           <folding>
             <marker date="1558601445369" expanded="true" signature="55:2417" ph="{...}" />
             <marker date="1558601445369" expanded="true" signature="491:2415" ph="{...}" />
@@ -308,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShipController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="268">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <marker date="1558604430602" expanded="true" signature="63:1089" ph="{...}" />
             <marker date="1558604430602" expanded="true" signature="182:989" ph="{...}" />
