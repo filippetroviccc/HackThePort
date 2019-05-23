@@ -6,6 +6,10 @@ public class Player : MonoBehaviour
     private static readonly int IsSwordAttacking = Animator.StringToHash("isSwordAttacking");
     private static readonly int IsGunAttacking = Animator.StringToHash("isGunAttacking");
 
+    public GameObject swordObject;
+
+    public GameObject gunObject;
+
     public Animator animator;
     public float speed;
 
@@ -21,7 +25,7 @@ public class Player : MonoBehaviour
 
             void Move(Vector2 dir)
             {
-                transform.Translate(dir * speed);
+                transform.Translate(dir * speed, Space.World);
                 isMoving = true;
             }
 
@@ -35,6 +39,15 @@ public class Player : MonoBehaviour
             animator.SetBool(IsMoving, isMoving);
         }
 
+        void RotateTowardsMouse()
+        {
+            var mouse = Input.mousePosition;
+            var screenPoint = Camera.main.WorldToScreenPoint(transform.localPosition);
+            var offset = new Vector2(mouse.x - screenPoint.x, mouse.y - screenPoint.y);
+            var angle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Euler(0, 0, angle - 90);
+        }
+
         void HandleAttack()
         {
             var isSwordAttacking = false;
@@ -42,21 +55,13 @@ public class Player : MonoBehaviour
 
             void AttackWithSword()
             {
-                void SwingSword()
-                {
-                }
-
-                SwingSword();
+                swordObject.GetComponent<SwordScript>().Attack();
                 isSwordAttacking = true;
             }
 
             void AttackWithGun()
             {
-                void FireBullet()
-                {
-                }
-
-                FireBullet();
+                gunObject.GetComponent<GunScript>().Fire();
                 isGunAttacking = true;
             }
 
@@ -68,6 +73,7 @@ public class Player : MonoBehaviour
         }
 
         HandleMovement();
+        RotateTowardsMouse();
         HandleAttack();
     }
 }

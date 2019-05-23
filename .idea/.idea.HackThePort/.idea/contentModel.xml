@@ -142,7 +142,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="GunScript.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="SwordScript.cs" t="Include" />
         </e>
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />

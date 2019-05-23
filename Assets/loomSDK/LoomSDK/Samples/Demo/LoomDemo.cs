@@ -9,7 +9,7 @@ using Loom.Newtonsoft.Json;
 public class LoomDemo : MonoBehaviour
 {
     public Text statusTextRef;
-    public GameObject cube;
+    public UnityEngine.GameObject cube;
     public Vector3 spinDirection;
 
     private Contract contract;
