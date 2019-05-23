@@ -187,6 +187,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5632854928180985114, guid: f215995786108cd4199548edebfa9e41,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2131947552993165439, guid: f215995786108cd4199548edebfa9e41,
         type: 3}
       propertyPath: healthSlider
@@ -4698,6 +4703,40 @@ PrefabInstance:
     - target: {fileID: 5649434997051719473, guid: 5063b9754c3b0e0418912196ce02ff49,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293005321505856293, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791375276807731218, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_WholeNumbers
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791375276807731218, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_Value
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7964956007521461582, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7964956007521461582, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7964956007521461582, guid: 5063b9754c3b0e0418912196ce02ff49,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.42750168
+      objectReference: {fileID: 0}
+    - target: {fileID: 7325684760635332, guid: 5063b9754c3b0e0418912196ce02ff49, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
