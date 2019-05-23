@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
     private static readonly int IsSwordAttacking = Animator.StringToHash("isSwordAttacking");
     private static readonly int IsGunAttacking = Animator.StringToHash("isGunAttacking");
 
-    public int health = 100;
     public GameObject swordObject;
     public GameObject gunObject;
 

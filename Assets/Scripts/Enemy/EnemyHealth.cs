@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemyHealth : MonoBehaviour
 {
@@ -7,12 +8,12 @@ public class EnemyHealth : MonoBehaviour
     public float sinkSpeed = 2.5f;
     public int scoreValue = 10;
     public AudioClip deathClip;
+    public Slider healthSlider;
 
 
     Animator anim;
     AudioSource enemyAudio;
     ParticleSystem hitParticles;
-    CapsuleCollider capsuleCollider;
     bool isDead;
     bool isSinking;
 
@@ -22,7 +23,6 @@ public class EnemyHealth : MonoBehaviour
         anim = GetComponent <Animator> ();
         enemyAudio = GetComponent <AudioSource> ();
         hitParticles = GetComponentInChildren <ParticleSystem> ();
-        capsuleCollider = GetComponent <CapsuleCollider> ();
 
         currentHealth = startingHealth;
     }
@@ -34,6 +34,7 @@ public class EnemyHealth : MonoBehaviour
         {
             transform.Translate (-Vector3.up * sinkSpeed * Time.deltaTime);
         }
+        //healthSlider.transform.ro = Quaternion.identity;
     }
 
 
@@ -46,14 +47,18 @@ public class EnemyHealth : MonoBehaviour
         //enemyAudio.Play ();
 
         currentHealth -= amount;
-            
+        currentHealth = currentHealth >= 0 ? currentHealth : 0;
+        healthSlider.value = currentHealth;
+        
         //hitParticles.transform.position = hitPoint;
         //hitParticles.Play();
 
         if(currentHealth <= 0)
         {
             Death ();
+            return;
         }
+        healthSlider.image.color = Color.Lerp(Color.red, Color.green, healthSlider.normalizedValue);// new Color(256 * (1 - healthSlider.normalizedValue), 256 * healthSlider.normalizedValue, .0f);
     }
 
 
@@ -61,12 +66,10 @@ public class EnemyHealth : MonoBehaviour
     {
         isDead = true;
 
-        capsuleCollider.isTrigger = true;
-
         anim.SetTrigger ("Dead");
 
-        enemyAudio.clip = deathClip;
-        enemyAudio.Play ();
+        //enemyAudio.clip = deathClip;
+        //enemyAudio.Play ();
     }
 
 
