@@ -1,8 +1,11 @@
 ﻿using Loom.Chaos.NaCl;
 using System;
+using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text;
 using Loom.Org.BouncyCastle.Crypto.Digests;
+using UnityEngine;
+using Debug = UnityEngine.Debug;
 
 namespace Loom.Client
 {
@@ -68,6 +71,7 @@ namespace Loom.Client
         {
             if (privateKey.Length != 64)
             {
+                Debug.Log(String.Format("{0}", privateKey.Length));
                 throw new ArgumentException("Expected 64-byte array", nameof(privateKey));
             }
 

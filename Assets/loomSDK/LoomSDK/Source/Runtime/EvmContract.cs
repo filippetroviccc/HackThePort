@@ -6,6 +6,8 @@ using Loom.Client.Internal;
 using Loom.Nethereum.ABI.Model;
 using Loom.Nethereum.Contracts;
 using Loom.Nethereum.RPC.Eth.DTOs;
+using UnityEngine;
+using Object = UnityEngine.Object;
 
 namespace Loom.Client
 {
@@ -82,6 +84,7 @@ namespace Loom.Client
         public async Task CallAsync(string method, params object[] functionInput)
         {
             FunctionBuilder function = this.contractBuilder.GetFunctionBuilder(method);
+            Debug.Log(String.Format("aaaa '{0}'", functionInput[1]));
             CallInput callInput = function.CreateCallInput(functionInput);
             await this.CallAsync(callInput.Data);
         }

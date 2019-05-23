@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccceadbc-822a-41d0-97c9-853c3c69c801" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreTools.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreTools.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreTools.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreTools.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/DroidSansMono.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/DroidSansMono.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/DroidSansMono.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/DroidSansMono.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/AssetStoreTools/Editor/icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/System.Numerics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/System.Numerics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/System.Numerics.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Plugins/System.Numerics.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/README.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/README.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Demo.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Demo/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/Demo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Demo/Demo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Demo/LoomDemo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Demo/LoomDemo.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Protobuf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Protobuf/Sample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Protobuf/Sample.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Protobuf/sample.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/Protobuf/sample.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/QuickStart.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/CheckProject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Editor/CheckProject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/CheckProject.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Editor/CheckProject.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/LoomSDK.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/LoomSDK.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/LoomSDK.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/LoomSDK.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Evm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Evm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Evm.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Evm.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Loom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Loom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Loom.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Loom.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Types.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/Types.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/evm.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/evm.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/evm.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/evm.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/loom.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/loom.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/loom.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/loom.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/types.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/types.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/types.proto.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Protobuf/proto/types.proto.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Address.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Contract.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Contract.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Contract.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Contract.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ContractBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ContractBase.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmContract.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmContract.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/EvmEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ILogProducer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ILogProducer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ILogProducer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ILogProducer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IRpcClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IRpcClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IRpcClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/IRpcClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Middleware.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/NullLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/NullLogger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/NullLogger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/NullLogger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/link.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/link.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/link.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDK/Source/link.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/MenuItems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/MenuItems.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/MenuItems.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/MenuItems.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/PackageBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/PackageBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/PackageBuilder.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/PackageBuilder.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/PackageBuildUtility.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/PackageBuildUtility/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Compiled.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Tests.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Tests.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Tests.sol.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/Tests.sol.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/compile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/compile.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/compile.sh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/TestsEvmContract/compile.sh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/style.css.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/style.css.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/bundle.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/bundle.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/index.html.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/index.html.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/settings.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/settings.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/web-socket-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/web-socket-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/web-socket-manager.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoomSDK/WebGLTemplates/Loom/web-socket-manager.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <marker date="1558558794196" expanded="false" signature="6:108" ph="..." />
+                <marker date="1558558794196" expanded="true" signature="160:3420" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="236:1253" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="772:822" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="928:1040" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1301:1445" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1372:1437" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1503:1996" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1601:1663" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1694:1882" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="1895:1990" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2050:2600" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2150:2185" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2216:2486" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2239:2404" ph="/* This should print: { &quot;key&quot;: &quot;123&quot;, &quot;value&quot;: &quot;hello!&quot; } in the Unity console window ... */" />
+                <marker date="1558558794196" expanded="true" signature="2499:2594" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2661:3418" ph="{...}" />
+                <marker date="1558558794196" expanded="true" signature="2671:2899" ph="/* The private key is used to sign transactions sent to the DAppChain. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs.meta">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="169" column="79" selection-start-line="169" selection-start-column="62" selection-end-line="169" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <marker date="1558558794222" expanded="false" signature="6:135" ph="..." />
+                <marker date="1558558794222" expanded="true" signature="158:5010" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="196:5008" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="399:628" ph="/// Generates a cryptographically strong sequence of random bytes. ... " />
+                <marker date="1558558794222" expanded="true" signature="682:867" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="877:1101" ph="/// Generates a 64-byte private key from a 32-byte seed. ... " />
+                <marker date="1558558794222" expanded="true" signature="1172:1635" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="1645:1774" ph="/// Generates a 64-byte private key. ... " />
+                <marker date="1558558794222" expanded="true" signature="1824:2019" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="2029:2253" ph="/// Generates a 32-byte public key from a 64-byte private key. ... " />
+                <marker date="1558558794222" expanded="true" signature="2325:2714" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="2376:2495" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="2724:3015" ph="/// Generates a 64-byte signature of the given message. ... " />
+                <marker date="1558558794222" expanded="true" signature="3097:3334" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="3395:3736" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="3553:3690" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="3746:3995" ph="/// Converts a hex string to an array of bytes. ... " />
+                <marker date="1558558794222" expanded="true" signature="4056:4271" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="4107:4206" ph="{...}" />
+                <marker date="1558558794222" expanded="true" signature="4281:4566" ph="/// Converts a public key to a local address (which is used as unique identifier within a DAppChain). ... " />
+                <marker date="1558558794222" expanded="true" signature="4639:5002" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abi</find>
+      <find>con</find>
+      <find>Contract</find>
+      <find>this.VAlueChanged</find>
+      <find>ClientOnvalue</find>
+      <find>TransferClickHandler</find>
+      <find>class Address</find>
+      <find>cons</find>
+      <find>FromPublickey</find>
+      <find>FromPublicKey</find>
+      <find>address =</find>
+      <find>`</find>
+      <find>GeneratePrivate</find>
+      <find>address</find>
+      <find>generatePri</find>
+      <find>resolvecontract</find>
+      <find>LoadedValueTex</find>
+      <find>transfer</find>
+      <find>TransferEventData</find>
+      <find>Transfer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Filip\Desktop\code\hakaton\HackThePort</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.0.12/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTestAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.0.12/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.0.12/UnityEngine.TestRunner/TestRunner/TestRunnerFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.0.12/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/LuminPlatformSetup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.0.12/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Tokens/ERC20.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Tokens/ERC20Token.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Tokens/ERC20TokenContractClient.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/TokenAssets/TokenAssetsContractClient.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/TokenAssets/TokenAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC20.abi.json" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC721.json" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs" />
+        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Wallet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.HackThePort.dir/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.HackThePort.dir/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="loomSDK" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="loomSDK" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Contracts" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="loomSDK" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="LoomSDK" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="loomSDK" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Wallet" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HackThePort" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="loomSDK" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Wallet" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Token" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccceadbc-822a-41d0-97c9-853c3c69c801" name="Default Changelist" comment="" />
+      <created>1558477957893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558477957893</updated>
+      <workItem from="1558477961349" duration="9000" />
+      <workItem from="1558553618235" duration="1231000" />
+      <workItem from="1558557928541" duration="18890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20130000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32871014" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Tokens/ERC20.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Tokens.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/TokenAssets/TokenAssets.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/TokenAssets/TokenAssetsContractClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC721.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC20.abi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20Token.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="1179" column="113" selection-start-line="1179" selection-start-column="106" selection-end-line="1179" selection-end-column="113" />
+          <folding>
+            <marker date="1558558794208" expanded="true" signature="0:137" ph="/* &lt;auto-generated&gt; ... */" />
+            <marker date="1558558794208" expanded="true" signature="179:49089" ph="Designer generated code" />
+            <marker date="1558558794208" expanded="false" signature="218:407" ph="..." />
+            <marker date="1558558794208" expanded="true" signature="439:49053" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="580:3678" ph="{...}" />
+            <marker date="1558558794208" expanded="false" signature="587:3673" ph="Descriptor" />
+            <marker date="1558558794208" expanded="true" signature="720:760" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="842:3658" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="2086:3649" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="3681:49050" ph="Messages" />
+            <marker date="1558558794208" expanded="true" signature="3768:15494" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="4209:4310" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="4425:4465" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="4554:4585" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="4736:5184" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="5279:5322" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="5557:5687" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="5600:5681" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="5908:5990" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="5950:5984" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6203:6281" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6243:6275" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6501:6583" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6543:6577" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6890:6982" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="6937:6976" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="7280:7424" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="7330:7418" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="7697:7829" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="7741:7823" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8126:8270" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8176:8264" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8539:8669" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8582:8663" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8779:8829" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8935:9636" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="8977:9008" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="9049:9079" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="9738:10438" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10358:10413" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10540:10604" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10722:11803" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10755:10833" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10858:10934" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="10957:11031" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11055:11131" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11164:11247" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11286:11370" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11403:11481" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11520:11604" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11636:11713" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11748:11797" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11898:13035" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="11951:12030" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12055:12132" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12155:12230" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12254:12331" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12364:12448" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12487:12572" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12605:12684" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12723:12808" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12840:12918" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="12953:13010" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13144:14158" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13171:13196" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13234:13276" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13307:13347" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13376:13412" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13442:13482" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13521:13695" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13557:13637" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13740:13796" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13835:13879" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="13924:13980" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="14018:14060" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="14276:15489" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="14337:15483" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="14359:15475" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="14914:15002" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="15558:20672" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="15983:16084" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="16199:16239" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="16324:16355" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="16498:16671" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="16762:16801" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17057:17181" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17097:17175" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17474:17554" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17515:17548" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17664:17710" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17812:18125" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17854:17885" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="17926:17956" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18227:18474" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18394:18449" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18576:18640" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18758:19056" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18788:18862" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="18889:18966" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19001:19050" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19151:19498" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19201:19276" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19303:19381" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19416:19473" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19603:20013" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19630:19655" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19690:19726" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19759:19915" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="19789:19869" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="20131:20667" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="20192:20661" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="20214:20653" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="20485:20573" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="20748:25543" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="21197:21298" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="21413:21453" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="21544:21575" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="21730:21865" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="21962:22007" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22222:22302" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22263:22296" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22558:22682" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22598:22676" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22792:22844" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22952:23251" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="22994:23025" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23066:23096" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23353:23596" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23516:23571" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23698:23762" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23880:24171" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="23904:23978" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24007:24081" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24116:24165" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24266:24607" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24310:24386" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24415:24490" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24525:24582" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24718:25006" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24745:24770" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24799:24837" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="24872:24908" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="25124:25538" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="25185:25532" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="25207:25524" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="25611:30407" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="26044:26145" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="26260:26300" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="26387:26418" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="26565:26704" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="26797:26838" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27103:27231" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27145:27225" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27448:27528" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27489:27522" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27638:27686" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27790:28093" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27832:27863" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="27904:27934" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28195:28443" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28363:28418" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28545:28609" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28727:29024" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28759:28835" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28859:28934" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="28969:29018" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29119:29465" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29171:29248" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29272:29348" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29383:29440" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29572:29867" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29599:29624" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29661:29701" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29731:29769" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="29985:30402" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="30046:30396" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="30068:30388" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="30473:35277" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="30902:31003" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="31118:31158" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="31244:31275" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="31420:31561" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="31653:31693" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="31958:32086" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32000:32080" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32307:32389" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32349:32383" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32499:32546" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32649:32954" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32691:32722" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="32763:32793" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33056:33306" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33226:33281" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33408:33472" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33590:33889" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33622:33698" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33723:33799" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33834:33883" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="33984:34332" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34036:34113" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34138:34215" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34250:34307" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34438:34736" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34465:34490" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34527:34567" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34598:34638" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34854:35272" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34915:35266" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="34937:35258" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="35341:39310" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="35766:35867" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="35982:36022" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="36107:36138" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="36281:36389" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="36480:36519" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="36779:36905" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="36820:36899" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37015:37061" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37163:37418" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37205:37236" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37277:37307" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37520:37714" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37634:37689" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37816:37880" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="37998:38194" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38029:38104" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38139:38188" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38289:38533" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38340:38416" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38451:38508" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38638:38862" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38665:38690" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38726:38764" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="38980:39305" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="39041:39299" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="39063:39291" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="39374:44248" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="39799:39900" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40015:40055" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40140:40171" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40314:40455" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40546:40585" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40820:40950" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="40863:40944" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41210:41336" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41251:41330" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41446:41492" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41594:41899" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41636:41667" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="41708:41738" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42001:42257" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42177:42232" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42359:42423" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42541:42847" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42574:42652" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42682:42757" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42792:42841" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42942:43297" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="42995:43074" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43104:43180" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43215:43272" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43402:43706" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43429:43454" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43492:43534" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43570:43608" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43824:44243" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43885:44237" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="43907:44229" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="44320:49036" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="44761:44862" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="44977:45017" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="45106:45137" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="45288:45417" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="45512:45555" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="45760:45834" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="45798:45828" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46090:46214" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46130:46208" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46324:46374" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46480:46773" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46522:46553" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46594:46624" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="46875:47112" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47032:47087" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47214:47278" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47396:47682" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47417:47489" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47518:47592" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47627:47676" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47777:48113" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47818:47892" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="47921:47996" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48031:48088" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48222:48501" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48249:48274" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48300:48332" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48367:48403" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48619:49031" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48680:49025" ph="{...}" />
+            <marker date="1558558794208" expanded="true" signature="48702:49017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <marker date="1558558794222" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558558794222" expanded="true" signature="158:5010" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="196:5008" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="399:628" ph="/// Generates a cryptographically strong sequence of random bytes. ... " />
+            <marker date="1558558794222" expanded="true" signature="682:867" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="877:1101" ph="/// Generates a 64-byte private key from a 32-byte seed. ... " />
+            <marker date="1558558794222" expanded="true" signature="1172:1635" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="1645:1774" ph="/// Generates a 64-byte private key. ... " />
+            <marker date="1558558794222" expanded="true" signature="1824:2019" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="2029:2253" ph="/// Generates a 32-byte public key from a 64-byte private key. ... " />
+            <marker date="1558558794222" expanded="true" signature="2325:2714" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="2376:2495" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="2724:3015" ph="/// Generates a 64-byte signature of the given message. ... " />
+            <marker date="1558558794222" expanded="true" signature="3097:3334" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="3395:3736" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="3553:3690" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="3746:3995" ph="/// Converts a hex string to an array of bytes. ... " />
+            <marker date="1558558794222" expanded="true" signature="4056:4271" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="4107:4206" ph="{...}" />
+            <marker date="1558558794222" expanded="true" signature="4281:4566" ph="/// Converts a public key to a local address (which is used as unique identifier within a DAppChain). ... " />
+            <marker date="1558558794222" expanded="true" signature="4639:5002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/ERC20TokenContractClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="169" column="79" selection-start-line="169" selection-start-column="62" selection-end-line="169" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Wallet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1558558794196" expanded="false" signature="6:108" ph="..." />
+            <marker date="1558558794196" expanded="true" signature="160:3420" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="236:1253" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="772:822" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="928:1040" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1301:1445" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1372:1437" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1503:1996" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1601:1663" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1694:1882" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="1895:1990" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2050:2600" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2150:2185" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2216:2486" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2239:2404" ph="/* This should print: { &quot;key&quot;: &quot;123&quot;, &quot;value&quot;: &quot;hello!&quot; } in the Unity console window ... */" />
+            <marker date="1558558794196" expanded="true" signature="2499:2594" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2661:3418" ph="{...}" />
+            <marker date="1558558794196" expanded="true" signature="2671:2899" ph="/* The private key is used to sign transactions sent to the DAppChain. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
