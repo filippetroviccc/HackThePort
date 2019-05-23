@@ -9,9 +9,8 @@ public class EnemyHealth : MonoBehaviour
     public int scoreValue = 10;
     public AudioClip deathClip;
     public Slider healthSlider;
-
-
-    Animator anim;
+    public Animator anim;
+    
     AudioSource enemyAudio;
     ParticleSystem hitParticles;
     bool isDead;
@@ -20,7 +19,6 @@ public class EnemyHealth : MonoBehaviour
 
     void Awake ()
     {
-        anim = GetComponent <Animator> ();
         enemyAudio = GetComponent <AudioSource> ();
         hitParticles = GetComponentInChildren <ParticleSystem> ();
 
