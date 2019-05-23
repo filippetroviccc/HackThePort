@@ -10,8 +10,7 @@ public class SwordScript : MonoBehaviour
 
     public void Attack()
     {
-        slashObject.SetActive(true);
-
+        collidersInside.RemoveAll(item => item == null);
         foreach (var col in collidersInside)
         {
             var colObj = col.gameObject;
@@ -21,6 +20,8 @@ public class SwordScript : MonoBehaviour
                 enemyHealth.TakeDamage(attackDamage, Vector3.zero);
             }
         }
+
+        slashObject.SetActive(true);
     }
 
     private void OnTriggerEnter2D(Collider2D other)

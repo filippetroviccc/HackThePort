@@ -115,7 +115,7 @@ GameObject:
   - component: {fileID: 1976153951700127264}
   m_Layer: 0
   m_Name: Sword
-  m_TagString: Untagged
+  m_TagString: SwordCollider
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -128,8 +128,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1976153951700127268}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.377, y: 0.429, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.019, y: 0.66, z: 0}
+  m_LocalScale: {x: 1.1841, y: 1.1841, z: 1.1841}
   m_Children:
   - {fileID: 6287364636892963074}
   m_Father: {fileID: 1976153951954755140}
@@ -164,7 +164,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.65
 --- !u!50 &1976153951700127264
 Rigidbody2D:
   serializedVersion: 4
@@ -272,7 +272,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.09037244}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -283,7 +283,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.0417309, y: 0.4994762}
   m_EdgeRadius: 0
 --- !u!82 &5172936342955446721
 AudioSource:
@@ -488,15 +488,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: SlashEffect
       objectReference: {fileID: 0}
+    - target: {fileID: 6287364637376985524, guid: 204098950797b8c4ebfb203394d41927,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.417
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.304
+      value: 0.061
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
@@ -546,17 +551,17 @@ PrefabInstance:
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17857002
+      value: 0.1290103
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.2714152
+      value: 0.217074
       objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.9121069
+      value: 1.9987744
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204098950797b8c4ebfb203394d41927, type: 3}

@@ -39,13 +39,17 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="_SeaScene" t="Include">
+            <e p="ShipController.cs" t="Include" />
+          </e>
+          <e p="Bullet" t="Include">
+            <e p="EnemyImpact.cs" t="Include" />
+          </e>
           <e p="Enemy" t="Include">
             <e p="EnemyAttack.cs" t="Include" />
             <e p="EnemyHealth.cs" t="Include" />
             <e p="EnemyMovement.cs" t="Include" />
           </e>
-          <e p="FadeOut.cs" t="Include" />
-          <e p="GunScript.cs" t="Include" />
           <e p="Managers" t="Include">
             <e p="EnemyManager.cs" t="Include" />
             <e p="GameOverManager.cs" t="Include" />
@@ -53,13 +57,16 @@
             <e p="ScoreManager.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
+            <e p="GunScript.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
             <e p="PlayerHealth.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
             <e p="PlayerShooting.cs" t="Include" />
+            <e p="SwordScript.cs" t="Include" />
           </e>
-          <e p="Player.cs" t="Include" />
-          <e p="ShipController.cs" t="Include" />
-          <e p="SwordScript.cs" t="Include" />
+          <e p="Util" t="Include">
+            <e p="FadeOut.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />
