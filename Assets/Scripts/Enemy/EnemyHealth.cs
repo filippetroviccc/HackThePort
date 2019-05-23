@@ -32,7 +32,7 @@ public class EnemyHealth : MonoBehaviour
     {
         if(isSinking)
         {
-            transform.Translate (-Vector3.up * sinkSpeed * Time.deltaTime);
+            transform.Translate (-Vector3.forward * sinkSpeed * Time.deltaTime);
         }
         //healthSlider.transform.ro = Quaternion.identity;
     }
@@ -40,11 +40,9 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage (int amount, Vector3 hitPoint)
     {
-        Debug.Log("Damage taken");
-        if(isDead)
-            return;
+        if(isDead) return;
 
-        //enemyAudio.Play ();
+        enemyAudio.Play();
 
         currentHealth -= amount;
         currentHealth = currentHealth >= 0 ? currentHealth : 0;
@@ -58,7 +56,7 @@ public class EnemyHealth : MonoBehaviour
             Death ();
             return;
         }
-        healthSlider.image.color = Color.Lerp(Color.red, Color.green, healthSlider.normalizedValue);// new Color(256 * (1 - healthSlider.normalizedValue), 256 * healthSlider.normalizedValue, .0f);
+        healthSlider.image.color = Color.Lerp(Color.red, Color.green, healthSlider.normalizedValue);
     }
 
 
@@ -68,15 +66,17 @@ public class EnemyHealth : MonoBehaviour
 
         anim.SetTrigger ("Dead");
 
-        //enemyAudio.clip = deathClip;
-        //enemyAudio.Play ();
+        enemyAudio.clip = deathClip;
+        enemyAudio.Play();
+        StartSinking();
     }
 
 
     public void StartSinking ()
     {
+        Debug.Log("singking");
         GetComponent <UnityEngine.AI.NavMeshAgent> ().enabled = false;
-        GetComponent <Rigidbody> ().isKinematic = true;
+        GetComponent <Rigidbody2D> ().isKinematic = true;
         isSinking = true;
         //ScoreManager.score += scoreValue;
         Destroy (gameObject, 2f);
