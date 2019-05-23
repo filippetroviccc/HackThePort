@@ -13,6 +13,7 @@ public class Player : MonoBehaviour
     public Animator animator;
     public float speed;
 
+
     void Update()
     {
         void HandleMovement()
@@ -53,6 +54,7 @@ public class Player : MonoBehaviour
             {
                 swordObject.GetComponent<SwordScript>().Attack();
                 isSwordAttacking = true;
+
             }
 
             void AttackWithGun()

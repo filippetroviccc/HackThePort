@@ -5,18 +5,27 @@ public class SwordScript : MonoBehaviour
 {
     private readonly List<Collider2D> collidersInside = new List<Collider2D>();
 
+    public int attackDamage = 20;
+
     public void Attack()
     {
         foreach (var col in collidersInside)
         {
             var colObj = col.gameObject;
-            if (colObj.tag.Equals("Enemy")) ; // TODO take damage
+            EnemyHealth enemyHealth = colObj.GetComponent<EnemyHealth>();
+            if (enemyHealth)
+            {
+                enemyHealth.TakeDamage(attackDamage, Vector3.zero);
+            }
         }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!collidersInside.Contains(other)) collidersInside.Add(other);
+        if (!collidersInside.Contains(other))
+        {
+            collidersInside.Add(other);
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)

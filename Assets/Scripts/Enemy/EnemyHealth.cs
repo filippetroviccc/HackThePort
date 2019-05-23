@@ -39,15 +39,16 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage (int amount, Vector3 hitPoint)
     {
+        Debug.Log("Damage taken");
         if(isDead)
             return;
 
-        enemyAudio.Play ();
+        //enemyAudio.Play ();
 
         currentHealth -= amount;
             
-        hitParticles.transform.position = hitPoint;
-        hitParticles.Play();
+        //hitParticles.transform.position = hitPoint;
+        //hitParticles.Play();
 
         if(currentHealth <= 0)
         {
