@@ -200,6 +200,7 @@ GameObject:
   - component: {fileID: 6037159248379933157}
   - component: {fileID: 5172936342955446721}
   - component: {fileID: 2058498198}
+  - component: {fileID: 5722392083863805685}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -430,6 +431,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!195 &5722392083863805685
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976153951954755143}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.35
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 0.66
+  m_BaseOffset: 0.33
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1 &1976153952165466993
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,11 +506,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1976153951700127267}
     m_Modifications:
-    - target: {fileID: 6287364637376985524, guid: 204098950797b8c4ebfb203394d41927,
-        type: 3}
-      propertyPath: m_Name
-      value: SlashEffect
-      objectReference: {fileID: 0}
     - target: {fileID: 6287364637376985525, guid: 204098950797b8c4ebfb203394d41927,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -557,6 +575,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.9121069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287364637376985524, guid: 204098950797b8c4ebfb203394d41927,
+        type: 3}
+      propertyPath: m_Name
+      value: SlashEffect
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204098950797b8c4ebfb203394d41927, type: 3}
