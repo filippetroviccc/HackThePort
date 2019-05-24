@@ -34,10 +34,13 @@ public class ShooterManager : EnemyManager
         else if (rightFree) spawnPointIndex = Random.Range(2, 4);
         else return;
 
-        // Create an instance of the enemy prefab at the randomly selected spawn point's position and rotation.
-        var enemyObj = Instantiate(enemyPrefab, spawnPointsObj[spawnPointIndex].gameObject.transform.position,
-            spawnPointsObj[spawnPointIndex].gameObject.transform.rotation);
+        if (numOfEnemies < maxNumOfEnemies)
+        {
+            // Create an instance of the enemy prefab at the randomly selected spawn point's position and rotation.
+            var enemyObj = Instantiate(enemyPrefab, spawnPointsObj[spawnPointIndex].gameObject.transform.position,
+                spawnPointsObj[spawnPointIndex].gameObject.transform.rotation);
 
-        spawnPoints[spawnPointIndex].enemy = enemyObj;
+            spawnPoints[spawnPointIndex].enemy = enemyObj;
+        }
     }
 }

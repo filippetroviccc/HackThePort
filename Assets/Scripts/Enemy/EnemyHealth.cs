@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using CompleteProject;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class EnemyHealth : MonoBehaviour
@@ -22,6 +23,7 @@ public class EnemyHealth : MonoBehaviour
         enemyAudio = GetComponent <AudioSource> ();
         hitParticles = GetComponentInChildren <ParticleSystem> ();
 
+        EnemyManager.numOfEnemies++;
         currentHealth = startingHealth;
     }
 
@@ -66,6 +68,8 @@ public class EnemyHealth : MonoBehaviour
 
         enemyAudio.clip = deathClip;
         enemyAudio.Play();
+        EnemyManager.numOfEnemies--;
+        
         StartSinking();
     }
 

@@ -46,7 +46,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 2069209592759022637, guid: 3cb018c660e3c054b862002f64477288,
     type: 3}
   animator: {fileID: 5907302687843994337}
-  force: 2000
+  force: 1000
   coolDown: 4
 --- !u!1 &1723202180729003867
 GameObject:
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 5907302688413043604}
   m_Layer: 0
   m_Name: EnemyShooting
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -737,7 +737,7 @@ GameObject:
   - component: {fileID: 5907302689136260742}
   m_Layer: 0
   m_Name: InnerCollider
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

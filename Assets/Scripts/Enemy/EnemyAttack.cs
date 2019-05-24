@@ -51,6 +51,7 @@ public class EnemyAttack : MonoBehaviour
         if (timer >= timeBetweenAttacks && playerInRange /* && enemyHealth.currentHealth > 0*/)
         {
             StopMovingNAttack(attackWaitingTime);
+            timer = 0;
         }
 
         if (playerHealth.currentHealth <= 0)
@@ -76,8 +77,6 @@ public class EnemyAttack : MonoBehaviour
 
     void Attack()
     {
-        timer = 0f;
-
         if (playerHealth.currentHealth > 0 && playerInRange)
         {
             playerHealth.TakeDamage(attackDamage);

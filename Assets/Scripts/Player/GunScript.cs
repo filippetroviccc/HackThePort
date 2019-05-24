@@ -10,6 +10,7 @@ public class GunScript : MonoBehaviour
     public float force;
 
     [SerializeField] private GameObject bulletShower;
+    [SerializeField] private Animator animator;
 
     public void Start()
     {
@@ -28,6 +29,7 @@ public class GunScript : MonoBehaviour
         var bullet = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
         bullet.GetComponent<Rigidbody2D>().AddForce(transform.up * force);
         currNumOfBullets--;
+        animator.Play("player_gunAttacking");
 
         UpdateHud();
     }

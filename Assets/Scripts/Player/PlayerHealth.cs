@@ -1,7 +1,6 @@
-﻿using UnityEngine;
+﻿using CompleteProject;
+using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
-using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -100,6 +99,7 @@ public class PlayerHealth : MonoBehaviour
         // Turn off the movement and shooting scripts.
         player.enabled = false;
         //playerShooting.enabled = false;
+        EnemyManager.numOfEnemies = 0;
     }
 
 

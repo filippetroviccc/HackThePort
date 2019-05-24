@@ -80,10 +80,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e15099f5ee559584089d5851df572def, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeBetweenAttacks: 0.5
-  attackDamage: 0
+  timeBetweenAttacks: 1
+  attackDamage: 10
   anim: {fileID: 1782926829342678100}
-  attackWaitingTime: 1
+  attackWaitingTime: 0.5
   movement: {fileID: 3122412700301162435}
 --- !u!61 &6209799250026079467
 BoxCollider2D:
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 1782926828419162163}
   m_Layer: 0
   m_Name: InnerCollider
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -275,7 +275,7 @@ GameObject:
   - component: {fileID: 1782926829842914593}
   m_Layer: 0
   m_Name: EnemyLong
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

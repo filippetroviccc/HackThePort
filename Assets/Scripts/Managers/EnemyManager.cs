@@ -9,6 +9,9 @@ namespace CompleteProject
         public float spawnTime = 3f; // How long between each spawn.
         public GameObject[] spawnPointsObj; // An array of the spawn points this enemy can spawn from.
 
+        public static int maxNumOfEnemies = 5;
+        public static int numOfEnemies;
+
         void Start()
         {
             // Call the Spawn function after a delay of the spawnTime and then continue to call after the same amount of time.
@@ -28,9 +31,10 @@ namespace CompleteProject
             // Find a random index between zero and one less than the number of spawn points.
             int spawnPointIndex = Random.Range(0, spawnPointsObj.Length);
 
-            // Create an instance of the enemy prefab at the randomly selected spawn point's position and rotation.
-            Instantiate(enemyPrefab, spawnPointsObj[spawnPointIndex].transform.position,
-                spawnPointsObj[spawnPointIndex].transform.rotation);
+            if (numOfEnemies < maxNumOfEnemies)
+                // Create an instance of the enemy prefab at the randomly selected spawn point's position and rotation.
+                Instantiate(enemyPrefab, spawnPointsObj[spawnPointIndex].transform.position,
+                    spawnPointsObj[spawnPointIndex].transform.rotation);
         }
     }
 }
