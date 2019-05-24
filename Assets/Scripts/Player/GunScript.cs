@@ -10,11 +10,9 @@ public class GunScript : MonoBehaviour
     public float force;
 
     [SerializeField] private GameObject bulletShower;
-    private BulletHud bulletHud;
 
     public void Start()
     {
-        bulletHud = bulletShower.GetComponent<BulletHud>();
         Reload();
     }
 
@@ -36,6 +34,5 @@ public class GunScript : MonoBehaviour
 
     private void UpdateHud()
     {
-        bulletHud.numOfBulletsToShow = currNumOfBullets;
     }
 }

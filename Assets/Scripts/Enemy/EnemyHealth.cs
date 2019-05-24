@@ -32,7 +32,7 @@ public class EnemyHealth : MonoBehaviour
         {
             transform.Translate (-Vector3.forward * sinkSpeed * Time.deltaTime);
         }
-        //healthSlider.transform.ro = Quaternion.identity;
+        //healthSlider.gameObject.transform.rotation = Quaternion.identity;
     }
 
 

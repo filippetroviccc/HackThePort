@@ -1,4 +1,6 @@
 ﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -8,6 +10,8 @@ public class Player : MonoBehaviour
 
     public GameObject swordObject;
     public GameObject gunObject;
+    public int gunCooldown = 3;
+    public Slider gunColdownSlider;
 
     public Animator animator;
     [SerializeField] private PlayerAudioController audioController;
@@ -16,6 +20,7 @@ public class Player : MonoBehaviour
     [SerializeField] private double rotateAnimationTolerance = 0.001f;
 
     private GunScript gunScript;
+    private bool gunReady = true;
 
     private void Start()
     {
@@ -25,6 +30,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         var isMoving = false;
+        
 
         void HandleMovement()
         {
@@ -69,29 +75,50 @@ public class Player : MonoBehaviour
             var isSwordAttacking = false;
             var isGunAttacking = false;
 
-            void AttackWithSword()
+            if (Input.GetMouseButtonDown(0))
             {
                 swordObject.GetComponent<SwordScript>().Attack();
                 audioController.PlaySwordSound();
                 isSwordAttacking = true;
             }
 
-            void AttackWithGun()
-            {
-                gunScript.Fire();
-                audioController.PlayGunSounds();
-                isGunAttacking = true;
+            else if (Input.GetMouseButtonDown(1))
+            { 
+                if(gunReady)
+                {
+                    gunScript.Fire();
+                    audioController.PlayGunSounds();
+                    StartCoroutine(coolDownGun());
+                    isGunAttacking = true;
+                }
+                return;
             }
-
-            if (Input.GetMouseButtonDown(0)) AttackWithSword();
-            else if (Input.GetMouseButtonDown(1) && gunScript.currNumOfBullets > 0) AttackWithGun();
 
             animator.SetBool(IsSwordAttacking, isSwordAttacking);
             animator.SetBool(IsGunAttacking, isGunAttacking);
+
         }
 
         HandleMovement();
         RotateTowardsMouse();
         HandleAttack();
+
+    }
+        private IEnumerator coolDownGun()
+        {
+            gunReady = false;
+            float elipsedTime = 0;
+        Color initialColor = gunColdownSlider.image.color;
+            while (elipsedTime <= gunCooldown)
+            {
+                elipsedTime += Time.deltaTime;
+                gunColdownSlider.value = elipsedTime / gunCooldown;
+                gunColdownSlider.image.color = Color.Lerp(Color.red, initialColor, gunColdownSlider.normalizedValue);
+                yield return 13;
+            }
+        gunColdownSlider.image.color = initialColor;
+        gunReady = true;
+
+
     }
 }

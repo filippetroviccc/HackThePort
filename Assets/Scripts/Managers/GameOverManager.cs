@@ -28,7 +28,7 @@ namespace CompleteProject
             {
                 Debug.LogError("Detected multiple instances accross scenes");
             }
-            lootingOnChainScreen.gameObject.SetActive(false);
+            //lootingOnChainScreen.gameObject.SetActive(false);
         }
         private static GameOverManager singletonInstance;
 
