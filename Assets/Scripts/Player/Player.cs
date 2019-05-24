@@ -10,8 +10,10 @@ public class Player : MonoBehaviour
     public GameObject gunObject;
 
     public Animator animator;
+    [SerializeField] private PlayerAudioController audioController;
+
     public float speed;
-    [SerializeField] double rotateAnimationTolerance = 0.001f;
+    [SerializeField] private double rotateAnimationTolerance = 0.001f;
 
     private GunScript gunScript;
 
@@ -22,22 +24,26 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        var isMoving = false;
+
         void HandleMovement()
         {
-            var isMoving = false;
+            var dir = Vector2.zero;
 
-            void Move(Vector2 dir)
+            if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) dir += Vector2.up;
+            else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) dir += Vector2.down;
+
+            if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)) dir += Vector2.left;
+            else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) dir += Vector2.right;
+
+            dir.Normalize();
+
+            if (dir != Vector2.zero) //player wants to move
             {
                 transform.Translate(dir * speed, Space.World);
+                audioController.PlayWalkSound();
                 isMoving = true;
             }
-
-            if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) Move(Vector2.up);
-            else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) Move(Vector2.down);
-
-            if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)) Move(Vector2.left);
-            else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) Move(Vector2.right);
-
 
             animator.SetBool(IsMoving, isMoving);
         }
@@ -66,12 +72,14 @@ public class Player : MonoBehaviour
             void AttackWithSword()
             {
                 swordObject.GetComponent<SwordScript>().Attack();
+                audioController.PlaySwordSound();
                 isSwordAttacking = true;
             }
 
             void AttackWithGun()
             {
                 gunScript.Fire();
+                audioController.PlayGunSounds();
                 isGunAttacking = true;
             }
 

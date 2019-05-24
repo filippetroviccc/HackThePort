@@ -15,7 +15,7 @@ public class EnemyImpact : MonoBehaviour
         var enemyHealth = other.gameObject.GetComponent<EnemyHealth>();
         if (enemyHealth != null) enemyHealth.TakeDamage(EnemyDamage, Vector3.zero);
 
-        if (!other.gameObject.CompareTag("Player")) Destroy(gameObject);
+        if (!other.gameObject.CompareTag("Player") && !other.isTrigger) Destroy(gameObject);
     }
 
     private IEnumerator DestroyThisObject()
