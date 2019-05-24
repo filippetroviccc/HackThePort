@@ -7,6 +7,7 @@ public class EnemyMovement : MonoBehaviour
     PlayerHealth playerHealth;
     EnemyHealth enemyHealth;
     NavMeshAgent nav;
+    public float rotationSpeed;
 
     void Awake()
     {
@@ -34,10 +35,11 @@ public class EnemyMovement : MonoBehaviour
 
     private void LookAtPlayer()
     {
-        Vector3 diff = player.transform.position - transform.position;
-        diff.Normalize();
+        Vector3 dir = player.transform.position - transform.position;
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90;
 
-        float rot_z = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0f, 0f, rot_z - 90);
+        transform.rotation =
+            Quaternion.Slerp(transform.rotation, Quaternion.AngleAxis(angle, Vector3.forward),
+                rotationSpeed * Time.deltaTime);
     }
 }

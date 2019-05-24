@@ -4,8 +4,11 @@ using UnityEngine;
 public class EnemyGunScript : MonoBehaviour
 {
     public GameObject bulletPrefab;
+    public Animator animator;
     public float force;
     public float coolDown = 2;
+
+
     private bool canShoot = true;
     private GameObject player;
 
@@ -16,7 +19,7 @@ public class EnemyGunScript : MonoBehaviour
 
     public void Update()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, player.transform.position - transform.position);
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.right - transform.position);
 
         if (hit.collider != null)
         {
@@ -26,9 +29,10 @@ public class EnemyGunScript : MonoBehaviour
 
     public void Fire()
     {
-        Debug.Log("FIRE");
         var bullet = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
         bullet.GetComponent<Rigidbody2D>().AddForce(transform.up * force);
+        animator.Play("Shooting");
+
         canShoot = false;
         StartCoroutine(CooldownCorout());
     }
