@@ -1,3 +1,8 @@
+<<<<<<< HEAD:Assets/loomSDK/AssetStoreTools.meta
+﻿fileFormatVersion: 2
+guid: 511eff9d321065b4db4b6361cc78027a
+timeCreated: 1558663263
+=======
 fileFormatVersion: 2
 guid: 635c8522646656b4cb901c3fe1b1ff52
 folderAsset: yes
@@ -6,3 +11,4 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/AnimationSprites.meta

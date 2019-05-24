@@ -1,3 +1,8 @@
+<<<<<<< HEAD:Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor.meta
+﻿fileFormatVersion: 2
+guid: ab95085bb4a9dba4f8af8be48200e947
+timeCreated: 1558663264
+=======
 fileFormatVersion: 2
 guid: 63b588f3892bb4b5eb73ad3d2791e05c
 folderAsset: yes
@@ -7,3 +12,4 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/NavMeshPlus/NavMeshComponents/Editor.meta

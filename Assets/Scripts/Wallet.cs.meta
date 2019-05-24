@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Wallet.cs.meta
+guid: b4fe24eb924add147976864acd613e51
+=======
+guid: 178d8366aa1616849b91b66285c51454
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/NavMeshPlus/NavMeshComponents/Editor/NavMeshAssetManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

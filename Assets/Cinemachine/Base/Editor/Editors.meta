@@ -1,3 +1,8 @@
+<<<<<<< HEAD:Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal.meta
+﻿fileFormatVersion: 2
+guid: bf0c73304552eb64faa9e1a4646c6e3f
+timeCreated: 1558663260
+=======
 fileFormatVersion: 2
 guid: 6b46e8ffe448f084ab12938cb774d063
 folderAsset: yes
@@ -7,3 +12,4 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/Cinemachine/Base/Editor/Editors.meta
