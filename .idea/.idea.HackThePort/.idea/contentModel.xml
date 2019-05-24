@@ -208,6 +208,7 @@
             <e p="FadeOut.cs" t="Include" />
           </e>
         </e>
+        <e p="ShooterManager.cs" t="Include" />
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />
       <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
