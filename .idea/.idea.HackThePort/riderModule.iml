@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../.." />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="library" name="Bundled Protobuf Distribution" level="application" />
+=======
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   </component>
 </module>

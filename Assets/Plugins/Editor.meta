@@ -1,8 +1,22 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: ae2d9afc10373d245b0174c1df521bac
+=======
+<<<<<<<< HEAD:Assets/loomSDK/LoomSDK/Source/Editor.meta
+﻿fileFormatVersion: 2
+guid: e0c03397d1e149c6a1496885bab5f23f
+timeCreated: 1558663260
+========
+fileFormatVersion: 2
+guid: 2e626fce29b0a8841ba2bf11e6128260
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
+=======
+>>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/Plugins/Editor.meta
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614

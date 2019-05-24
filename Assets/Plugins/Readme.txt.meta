@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Plugins/Readme.txt.meta
 guid: 53678c036752c9c4dbc9c5bc89042e33
+=======
+guid: e9049ad836dc7c14595751e308fc203e
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/NavMeshPlus/README.md.meta
 TextScriptImporter:
   externalObjects: {}
   userData: 

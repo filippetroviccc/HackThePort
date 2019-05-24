@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: e77ec241cf37b4042a6d42701911b483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3033132229545625971
+    second: MihaPirat (1)_0
+  - first:
+      213: -4988387343401035099
+    second: MihaPirat (1)_1
+  - first:
+      213: -7555766601042423502
+    second: MihaPirat (1)_2
+  - first:
+      213: -182942471288198176
+    second: MihaPirat (1)_3
+  - first:
+      213: -1292448391269186579
+    second: MihaPirat (1)_4
+  - first:
+      213: 3245283874522537750
+    second: MihaPirat (1)_5
+  - first:
+      213: -7351153222697455864
+    second: MihaPirat (1)_6
+  - first:
+      213: -5981417834760434182
+    second: MihaPirat (1)_7
+  - first:
+      213: 2418355747502614919
+    second: MihaPirat (1)_8
+  - first:
+      213: -8702636672630989558
+    second: MihaPirat (1)_9
+  - first:
+      213: -7467685318933349927
+    second: MihaPirat (1)_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 17
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MihaPirat (1)_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1110
+        width: 528
+        height: 693
+      alignment: 9
+      pivot: {x: 0.16046391, y: 0.4879677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407dda0674976e4983eb422fb85aa3f
+      internalID: -4988387343401035099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1159
+        width: 536
+        height: 724
+      alignment: 9
+      pivot: {x: 0.28220654, y: 0.39634612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc0de2b93971c48aea773bc2179ba8
+      internalID: -182942471288198176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1134
+        width: 784
+        height: 742
+      alignment: 9
+      pivot: {x: 0.17029385, y: 0.4381926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb0dd3803de3134ca2d82bd4eed4f66
+      internalID: -1292448391269186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1021
+        width: 719
+        height: 815
+      alignment: 9
+      pivot: {x: 0.22166747, y: 0.5204623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6bd885887137949a77bf263ac1b99e
+      internalID: 3245283874522537750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 677
+        width: 585
+        height: 1195
+      alignment: 9
+      pivot: {x: 0.30044946, y: 0.6430432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a33ba5104a244e9b68a9208eecc5e
+      internalID: -7351153222697455864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1123
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a49fcc73c28e49aa2f50cb90f5cdd
+      internalID: -5981417834760434182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MihaPirat (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 982
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7ca1328a5ae840bd4ceffc4155e65
+      internalID: -8702636672630989558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
