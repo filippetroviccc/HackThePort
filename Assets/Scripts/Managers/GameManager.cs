@@ -18,10 +18,21 @@ public class GameManager : MonoBehaviour
     public void OnStartGameButton()
     {
         currentLevel = 1;
-        SceneManager.LoadScene("MainScene");
+        LoadLevel(currentLevel);
     }
 
-    public void LoadNextLevel(int levelNumber)
+    public void LoadNextLevel()
+    {
+        LoadLevel(++currentLevel);
+    }
+
+
+    public void RestartCurrentLevel()
+    {
+        LoadLevel(currentLevel);
+    }
+
+    private void LoadLevel(int levelNumber)
     {
         if(currentLevel < levelCount)
         {
@@ -31,5 +42,4 @@ public class GameManager : MonoBehaviour
             // TODO: sorry no more levels <--- this in case we dont have sea fight
         }
     }
-
 }
