@@ -55,6 +55,9 @@
           </e>
           <e p="Managers" t="Include">
             <e p="EnemyManager.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameManagerDeckFight.cs" t="Include" />
+            <e p="GameManagerSeeFight.cs" t="Include" />
             <e p="GameOverManager.cs" t="Include" />
             <e p="PauseManager.cs" t="Include" />
             <e p="ScoreManager.cs" t="Include" />
@@ -62,6 +65,7 @@
           <e p="Player" t="Include">
             <e p="GunScript.cs" t="Include" />
             <e p="Player.cs" t="Include" />
+            <e p="PlayerAudioController.cs" t="Include" />
             <e p="PlayerHealth.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
             <e p="PlayerShooting.cs" t="Include" />
