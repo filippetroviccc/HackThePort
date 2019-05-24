@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class EnemyAttack : MonoBehaviour
 {
@@ -6,12 +7,15 @@ public class EnemyAttack : MonoBehaviour
     public int attackDamage = 10;
     [SerializeField] private Animator anim;
 
+    public float attackWaitingTime = 0;
+
     GameObject player;
     PlayerHealth playerHealth;
     EnemyHealth enemyHealth;
     bool playerInRange;
     float timer;
 
+    public EnemyMovement movement;
 
     void Awake()
     {
@@ -23,7 +27,7 @@ public class EnemyAttack : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("player in range");
+        //Debug.Log("player in range");
         if (other.gameObject == player)
         {
             playerInRange = true;
@@ -46,7 +50,7 @@ public class EnemyAttack : MonoBehaviour
 
         if (timer >= timeBetweenAttacks && playerInRange /* && enemyHealth.currentHealth > 0*/)
         {
-            Attack();
+            StopMovingNAttack(attackWaitingTime);
         }
 
         if (playerHealth.currentHealth <= 0)
@@ -55,14 +59,27 @@ public class EnemyAttack : MonoBehaviour
         }
     }
 
+    private void StopMovingNAttack(float time)
+    {
+        movement.enabled = false;
+        anim.Play("Attack");
+
+        StartCoroutine(ReactivateMovement(time));
+    }
+
+    private IEnumerator ReactivateMovement(float time)
+    {
+        yield return new WaitForSeconds(time);
+        Attack();
+        movement.enabled = true;
+    }
 
     void Attack()
     {
         timer = 0f;
 
-        if (playerHealth.currentHealth > 0)
+        if (playerHealth.currentHealth > 0 && playerInRange)
         {
-            anim.Play("Attack");
             playerHealth.TakeDamage(attackDamage);
         }
     }
