@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: cb0720721dec67a4185191eb464a2bc2
+guid: e28aa339182ad5e49bd310b7a8ae306d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8063260156665934810
-    second: enemy_puc_0
+      213: -5975557177169818407
+    second: enemy_puc (1)_0
   - first:
-      213: 8725120804460427927
-    second: enemy_puc_1
+      213: 671982569027943016
+    second: enemy_puc (1)_1
   - first:
-      213: -2722513871447278445
-    second: enemy_puc_2
+      213: -1663698518685367131
+    second: enemy_puc (1)_2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -107,64 +107,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy_puc_0
+      name: enemy_puc (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1970
-        width: 745
-        height: 923
+        x: 19
+        y: 1107
+        width: 651
+        height: 750
       alignment: 9
-      pivot: {x: 0.33770952, y: 0.445796}
+      pivot: {x: 0.38472298, y: 0.4722054}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79dd640246d240f498476d7324e32d8c
-      internalID: 8063260156665934810
+      spriteID: 026a537fcabe1534e963477cd7ce0354
+      internalID: -5975557177169818407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy_puc_1
+      name: enemy_puc (1)_1
       rect:
         serializedVersion: 2
-        x: 757
-        y: 2036
-        width: 697
-        height: 763
+        x: 799
+        y: 1107
+        width: 634
+        height: 759
       alignment: 9
-      pivot: {x: 0.3325147, y: 0.46175057}
+      pivot: {x: 0.23695965, y: 0.45605597}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 201489115657bb340aaea057417522b3
-      internalID: 8725120804460427927
+      spriteID: 10aca7ff9701262478bff602f8a55c23
+      internalID: 671982569027943016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy_puc_2
+      name: enemy_puc (1)_2
       rect:
         serializedVersion: 2
-        x: 1520
-        y: 2032
-        width: 976
-        height: 767
+        x: 1562
+        y: 1061
+        width: 821
+        height: 788
       alignment: 9
-      pivot: {x: 0.21806711, y: 0.46195003}
+      pivot: {x: 0.20038712, y: 0.48941815}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40141bf07a8fb0f43ab5486aeff79895
-      internalID: -2722513871447278445
+      spriteID: 6b8ee8425fbb6d44e861d4d16b72cf46
+      internalID: -1663698518685367131
       vertices: []
       indices: 
       edges: []

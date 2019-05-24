@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Filip\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Filip\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_HackThePort.1302724472.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Filip\Desktop\code\hakaton\HackThePort" t="IncludeRecursive">
+    <e p="C:\Users\LotusFlareAdmin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\LotusFlareAdmin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_HackThePort.-2127656054.00" t="ExcludeRecursive" />
+    <e p="C:\Users\LotusFlareAdmin\Documents\GitHub\HackThePort" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -182,6 +182,7 @@
             <e p="EnemyHealth.cs" t="Include" />
             <e p="EnemyMovement.cs" t="Include" />
           </e>
+          <e p="EnemySpawnPoint.cs" t="Include" />
           <e p="Hud" t="Include">
             <e p="BulletHud.cs" t="Include" />
           </e>
@@ -193,6 +194,7 @@
             <e p="GameOverManager.cs" t="Include" />
             <e p="PauseManager.cs" t="Include" />
             <e p="ScoreManager.cs" t="Include" />
+            <e p="ShooterManager.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
             <e p="GunScript.cs" t="Include" />
@@ -214,7 +216,6 @@
           </e>
           <e p="Wallet.cs" t="Include" />
         </e>
-        <e p="ShooterManager.cs" t="Include" />
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />
       <e p="NavMeshComponents.csproj" t="IncludeRecursive" />

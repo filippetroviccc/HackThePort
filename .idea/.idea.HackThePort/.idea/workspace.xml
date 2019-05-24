@@ -1,343 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/Wallet.cs" line="33" />
-    <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/Wallet.cs" line="78" />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="b37583e3-d5ec-4e90-87dc-811ea4e2f71b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Token.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Wallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Wallet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/AssetStoreBatchMode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/ReflectionHelpers.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/AUTHORS.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/COPYING.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreBatchMode/lib/NDesk.Options/NDesk.Options.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreTools.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreTools.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/AssetStoreToolsExtra.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/DroidSansMono.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/DroidSansMono.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/AssetStoreTools/Editor/icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC20.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC20.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/IERC20.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/IERC20.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/Migrations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/Migrations.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/Ownable.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/Ownable.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/PirateToken.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/PirateToken.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/SafeMath.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/SafeMath.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/address.PirateToken.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Contracts/address.PirateToken.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.BouncyCastle.Crypto.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Chaos.NaCl.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Google.Protobuf.xml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Nethereum.Minimal.xml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.Newtonsoft.Json.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/Loom.websocket-sharp.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Plugins/System.Numerics.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/README.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Demo/LoomDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartSample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/QuickStart/LoomQuickStartScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/CheckProject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/CheckProject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Editor/LoomSDK.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/LoomSDK.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/LoomSDK.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/AddressMapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Evm.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Evm.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Loom.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Loom.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/PlasmaCash.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/TransferGateway.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/Types.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/address_mapper.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/evm.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/evm.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/loom.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/loom.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/plasma_cash.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/transfer_gateway.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/types.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Protobuf/proto/types.proto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AssetTransfer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ChainEventArgs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Contract.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Contract.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfiguration.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClientConfigurationProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DefaultDAppChainClientCallExecutor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/AssetTransferException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/EvmException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/InvalidTxNonceException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/LoomException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/RpcClientException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxAlreadyExistsInCacheException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Exceptions/TxCommitException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/HttpRpcClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IChainEventArgs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IDAppChainClientCallExecutor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ILogProducer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ILogProducer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IRpcClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/IRpcClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ITxMiddlewareHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncSemaphore.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/AsyncWaitQueue.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/JsonRpcModels.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/RawChainEventArgs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Internal/WebSocketProxyLoggerOutputFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/JsonRpcModels.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/LoomCryptoSignature.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/NonceTxMiddleware.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Middleware/SignedTxMiddleware.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/NullLogger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/NullLogger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcClientFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/RpcConnectionState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/TxMiddleware.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/AssetTransfer.jslib.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/LoomPluginUtils.jspre.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocket.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketManager.jslib.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebGL/WebSocketRpcClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/WebSocketRpcClient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/IEnumeratorAwaitExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/AsyncCoroutineRunner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/ThirdParty/AsyncAwaitUtil/Source/Internal/SyncContextUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/link.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/link.xml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/MenuItems.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/MenuItems.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/PackageBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/PackageBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/Editor/SamplesDownloader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKBuild/PackageBuildUtility/Editor/PackageBuildUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/AsyncEditorTestUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTestUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/ContractTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/GenericTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/LoomSDK.EditorTests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Runtime/LoomSDK.RuntimeTests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Compiled/Resources/Tests.abi.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Tests.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/Tests.sol.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/download-loom.sh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/genesis.example.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/TestsChain/start-chain.sh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/compile.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/TestsEvmContract/compile.sh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/compile-and-start-test-evm-chain.sh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Wallet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Wallet/Token.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/UnityProgress.js.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/favicon.ico.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/fullscreen.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Dark.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressEmpty.Light.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Dark.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressFull.Light.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Dark.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/progressLogo.Light.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/style.css.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/TemplateData/webgl-logo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/bundle.js.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/index.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/settings.js.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/web-socket-manager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/WebGLTemplates/Loom/web-socket-manager.js.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages.config" afterDir="false" />
-=======
   <component name="ChangeListManager">
     <list default="true" id="7a554d6b-2192-4109-a745-4b65d7813d06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Enemy2/EnemyVisuals.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Enemy2/EnemyVisuals.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" afterDir="false" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/EnemyBullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyBullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/EnemyShooting.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyShooting.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_puc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_puc.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_sword_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_sword_2.png.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -347,65 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Wallet.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <marker date="1558663271218" expanded="true" signature="0:5114" ph="/* using System; ... */" />
-=======
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Bullet/EnemyImpact.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <marker date="1558669994307" expanded="true" signature="6:44" ph="..." />
-                <marker date="1558669994307" expanded="true" signature="86:646" ph="{...}" />
-                <marker date="1558669994307" expanded="true" signature="142:199" ph="{...}" />
-                <marker date="1558669994307" expanded="true" signature="252:514" ph="{...}" />
-                <marker date="1558669994307" expanded="true" signature="559:644" ph="{...}" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-352">
-              <caret line="251" column="40" selection-start-line="251" selection-start-column="40" selection-end-line="251" selection-end-column="40" />
-              <folding>
-                <marker date="1558696806162" expanded="true" signature="6:335" ph="..." />
-                <marker date="1558696806162" expanded="true" signature="391:17387" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="859:995" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="1061:5486" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="5578:5753" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="5819:5832" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="5925:6023" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="6107:6194" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="6269:6572" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="6638:6783" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="6689:6777" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="6837:8086" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="8117:8301" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="8349:12055" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="8793:8936" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="9185:9291" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="10000:12049" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="10749:10863" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="12153:13833" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="12717:12815" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="13922:17316" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="14344:14488" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="14737:14843" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="16113:16215" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="17378:17385" ph="{...}" />
-                <marker date="1558696806162" expanded="true" signature="17389:24861" ph="/* Abstracts interaction with the Blueprint contract. ... */" />
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Bullet/OnPlayerImpact.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -417,111 +29,41 @@
                 <marker date="1558672533977" expanded="true" signature="140:197" ph="{...}" />
                 <marker date="1558672533977" expanded="true" signature="250:478" ph="{...}" />
                 <marker date="1558672533977" expanded="true" signature="523:608" ph="{...}" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/749D140F-CA6B-4AC4-BD8A-07D1FB7B39E0/a9/c6be2357/TransactionSignedUnityRequest.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-=======
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/GunScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" selection-start-line="9" selection-end-line="10" />
-              <folding>
-                <marker date="1558638806103" expanded="true" signature="58:846" ph="{...}" />
-                <marker date="1558638806103" expanded="true" signature="300:390" ph="{...}" />
-                <marker date="1558638806103" expanded="true" signature="417:495" ph="{...}" />
-                <marker date="1558638806103" expanded="true" signature="519:745" ph="{...}" />
-                <marker date="1558638806103" expanded="true" signature="775:844" ph="{...}" />
-              </folding>
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/db/da91e9ec/Debug.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
-=======
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+            <state relative-caret-position="343">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
               <folding>
-                <marker date="1558689503978" expanded="true" signature="6:44" ph="..." />
-                <marker date="1558689503978" expanded="true" signature="89:1071" ph="{...}" />
-                <marker date="1558689503978" expanded="true" signature="304:360" ph="{...}" />
-                <marker date="1558689503978" expanded="true" signature="386:635" ph="{...}" />
-                <marker date="1558689503978" expanded="true" signature="531:629" ph="{...}" />
-                <marker date="1558689503978" expanded="true" signature="659:939" ph="{...}" />
-                <marker date="1558689503978" expanded="true" signature="981:1069" ph="{...}" />
+                <marker date="1558699520751" expanded="true" signature="6:44" ph="..." />
+                <marker date="1558699520751" expanded="true" signature="89:864" ph="{...}" />
+                <marker date="1558699520751" expanded="true" signature="304:360" ph="{...}" />
+                <marker date="1558699520751" expanded="true" signature="386:428" ph="{...}" />
+                <marker date="1558699520751" expanded="true" signature="452:732" ph="{...}" />
+                <marker date="1558699520751" expanded="true" signature="774:862" ph="{...}" />
               </folding>
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/49/d09c0430/MonoBehaviour.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-=======
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="433">
+              <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
               <folding>
-                <marker date="1558688934273" expanded="true" signature="6:40" ph="..." />
-                <marker date="1558688934273" expanded="true" signature="84:1181" ph="{...}" />
-                <marker date="1558688934273" expanded="true" signature="240:548" ph="{...}" />
-                <marker date="1558688934273" expanded="true" signature="568:820" ph="{...}" />
-                <marker date="1558688934273" expanded="true" signature="651:748" ph="{...}" />
-                <marker date="1558688934273" expanded="true" signature="761:814" ph="{...}" />
-                <marker date="1558688934273" expanded="true" signature="853:1179" ph="{...}" />
-              </folding>
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/contentModel.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4972">
-              <caret line="326" column="30" selection-start-line="326" selection-start-column="30" selection-end-line="326" selection-end-column="30" />
-=======
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
-              <folding>
-                <marker date="1558661934367" expanded="true" signature="55:3217" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="643:712" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="731:3215" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="798:1567" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="1333:1506" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="1602:2297" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="2326:3128" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="2454:2639" ph="{...}" />
-                <marker date="1558661934367" expanded="true" signature="2673:2823" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="6:40" ph="..." />
+                <marker date="1558699630122" expanded="true" signature="84:1181" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="240:548" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="568:820" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="651:748" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="761:814" ph="{...}" />
+                <marker date="1558699630122" expanded="true" signature="853:1179" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -551,29 +93,88 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="345">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
-                <marker date="1558600375209" expanded="true" signature="45:1331" ph="{...}" />
-                <marker date="1558600375209" expanded="true" signature="93:1329" ph="{...}" />
-                <marker date="1558600375209" expanded="true" signature="478:686" ph="{...}" />
-                <marker date="1558600375209" expanded="true" signature="710:1323" ph="{...}" />
-                <marker date="1558600375209" expanded="true" signature="733:822" ph="/* If the player has no health left... ... */" />
-                <marker date="1558600375209" expanded="true" signature="853:904" ph="/* ... exit the function. ... */" />
+                <marker date="1558697792362" expanded="true" signature="45:1346" ph="{...}" />
+                <marker date="1558697792362" expanded="true" signature="93:1344" ph="{...}" />
+                <marker date="1558697792362" expanded="true" signature="446:653" ph="{...}" />
+                <marker date="1558697792362" expanded="true" signature="676:1338" ph="{...}" />
+                <marker date="1558697792362" expanded="true" signature="699:788" ph="/* If the player has no health left... ... */" />
+                <marker date="1558697792362" expanded="true" signature="819:870" ph="/* ... exit the function. ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/ShooterManager.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="585">
+              <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
               <folding>
-                <marker date="1558692923784" expanded="true" signature="66:222" ph="{...}" />
-                <marker date="1558692923784" expanded="true" signature="138:150" ph="{...}" />
-                <marker date="1558692923784" expanded="true" signature="208:220" ph="{...}" />
+                <marker date="1558697792378" expanded="true" signature="6:41" ph="..." />
+                <marker date="1558697792378" expanded="true" signature="85:1434" ph="{...}" />
+                <marker date="1558697792378" expanded="true" signature="155:493" ph="{...}" />
+                <marker date="1558697792378" expanded="true" signature="295:430" ph="{...}" />
+                <marker date="1558697792378" expanded="true" signature="511:1432" ph="{...}" />
+                <marker date="1558697792378" expanded="true" signature="801:918" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1558661934367" expanded="true" signature="55:3217" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="643:712" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="731:3215" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="798:1567" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="1333:1506" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="1602:2297" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="2326:3128" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="2454:2639" ph="{...}" />
+                <marker date="1558661934367" expanded="true" signature="2673:2823" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <marker date="1558693332879" expanded="false" signature="6:101" ph="..." />
+                <marker date="1558693332879" expanded="true" signature="144:3949" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="1557:1917" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="1759:1871" ph="/* playerShooting = GetComponentInChildren &lt;PlayerShooting&gt; (); ... */" />
+                <marker date="1558693332879" expanded="true" signature="1938:2443" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="2014:2155" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="2037:2145" ph="/* ... set the colour of the damageImage to the flash colour. ... */" />
+                <marker date="1558693332879" expanded="true" signature="2192:2376" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="2215:2366" ph="/* ... transition the colour back to clear. ... */" />
+                <marker date="1558693332879" expanded="true" signature="2485:3191" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="3042:3185" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="3211:3811" ph="{...}" />
+                <marker date="1558693332879" expanded="true" signature="3320:3462" ph="/* Turn off any remaining shooting effects. ... */" />
+                <marker date="1558693332879" expanded="true" signature="3845:3947" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawnPoint.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <marker date="1558694614590" expanded="true" signature="64:138" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -597,61 +198,16 @@
                 <marker date="1558652926873" expanded="true" signature="1189:1370" ph="{...}" />
                 <marker date="1558652926873" expanded="true" signature="1260:1364" ph="{...}" />
               </folding>
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>transger</find>
-      <find>Transfer</find>
-      <find>TransferEvent</find>
-      <find>abi</find>
-      <find>callAsync</find>
-      <find>Key</find>
-      <find>p</find>
-      <find>MapEntr</find>
-      <find>deploy</find>
-      <find>transactionhash</find>
-      <find>TransferFunction</find>
-      <find>transactionHash</find>
-      <find>this.accou</find>
-      <find>privatekey</find>
-      <find>2</find>
-    </findStrings>
-  </component>
-=======
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-<<<<<<< HEAD
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Wallet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/db/da91e9ec/Debug.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/83/249d9e46/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/b7/3a9d5ee5/TextAsset.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/49/d09c0430/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/749D140F-CA6B-4AC4-BD8A-07D1FB7B39E0/a9/c6be2357/TransactionSignedUnityRequest.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/1d/63fb8e09/FunctionBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBB23573-13CA-41D2-BC38-3FCFD4903E79/01/c267d732/CryptoBytes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBB23573-13CA-41D2-BC38-3FCFD4903E79/56/63edfcde/Ed25519.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/20/b3b51898/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/34/93564acc/File.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/7c/6e184f13/FunctionBuilder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/09/81566f83/FunctionABI.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E9C4808-E54C-4642-9B57-6FA7B91BD129/90/604139ee/InputField.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/17/b8d4696d/ConcurrentQueue`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/35/e40a5cdb/FunctionCallEncoder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/54/98ae7e65/ParametersEncoder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/76/12486458/HexStringUTF8ConvertorExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/WalletTemplateScene.unity" root0="FORCE_HIGHLIGHTING" />
-=======
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet/EnemyImpact.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hud/BulletHud.cs" root0="FORCE_HIGHLIGHTING" />
@@ -659,44 +215,19 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Util/CameraFolow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerAudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/GunScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ShooterManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/0f/0c4e0115/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet/OnPlayerImpact.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs" root0="FORCE_HIGHLIGHTING" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Wallet.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/TransferEntry.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/contracts.proto.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/contract.proto" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/loom.proto" />
-        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/7c/6e184f13/FunctionBuilder.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs" />
-        <option value="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Wallet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-=======
         <option value="$PROJECT_DIR$/Assets/Scripts/GunScript.cs" />
         <option value="$PROJECT_DIR$/Assets/PeerPlay/Ripple Water/_shaders/RippleWater.shader" />
         <option value="$PROJECT_DIR$/Assets/Wiggle.cs" />
@@ -712,9 +243,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAudioController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet/EnemyImpact.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet/OnPlayerImpact.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" />
         <option value="$PROJECT_DIR$/Assets/ShooterManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawnPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" />
       </list>
     </option>
   </component>
@@ -731,18 +265,13 @@
     <option name="y" value="125" />
     <option name="width" value="1440" />
     <option name="height" value="775" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="AssemblyExplorer" />
-=======
       <pane id="FileSystemExplorer" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -756,44 +285,25 @@
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
-<<<<<<< HEAD
-              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
-=======
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </path>
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
-<<<<<<< HEAD
-              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
-=======
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
               <item name="Bullet" type="1045f7f1:UnityExplorerNode" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </path>
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-<<<<<<< HEAD
-=======
               <item name="Enemy" type="1045f7f1:UnityExplorerNode" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </path>
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-<<<<<<< HEAD
-              <item name="Token" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Packages" type="4e2708dd:PackagesRoot" />
-=======
               <item name="Player" type="1045f7f1:UnityExplorerNode" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
             </path>
           </expand>
           <select />
@@ -801,22 +311,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-<<<<<<< HEAD
-      <pane id="FileSystemExplorer" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Discover.Launch.Via.Unity" value="true" />
-    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
-    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="io.protostuff.jetbrains.plugin.settings.ProtobufSettingsConfigurable" />
-=======
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -827,7 +321,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -862,15 +356,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="b37583e3-d5ec-4e90-87dc-811ea4e2f71b" name="Default Changelist" comment="" />
-      <created>1558579295669</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1558579295669</updated>
-      <workItem from="1558579297000" duration="15496000" />
-      <workItem from="1558617701682" duration="20247000" />
-=======
       <changelist id="7a554d6b-2192-4109-a745-4b65d7813d06" name="Default Changelist" comment="" />
       <created>1558562121620</created>
       <option name="number" value="Default" />
@@ -878,16 +363,11 @@
       <updated>1558562121620</updated>
       <workItem from="1558562133037" duration="14715000" />
       <workItem from="1558600295433" duration="14065000" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="49743000" />
-=======
-    <option name="totallyTimeSpent" value="43245000" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
+    <option name="totallyTimeSpent" value="50763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -902,11 +382,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
-=======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29194632" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -916,126 +392,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32871014" />
-=======
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32871014" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32871014" />
-      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="16" weight="0.32871014" />
-=======
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-<<<<<<< HEAD
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3295302" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="2" />
-      <window_info anchor="bottom" id="Unit Tests" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" />
-      <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="Errors In Solution" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-    </layout-to-restore>
-=======
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-<<<<<<< HEAD
-  <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="150" />
-    <option name="sortOrder" value="DESCENDING" />
-    <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="170" />
-    <coverage-tree-state>
-      <expand />
-      <select />
-    </coverage-tree-state>
-  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-=======
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1047,105 +425,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/ERC20TokenContractClient.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E9C4808-E54C-4642-9B57-6FA7B91BD129/90/604139ee/InputField.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmChainEventArgs.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/17/b8d4696d/ConcurrentQueue`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="292" column="16" selection-start-line="292" selection-start-column="16" selection-end-line="292" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Wallet.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Contracts/ERC20.json" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/b7/3a9d5ee5/TextAsset.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/1d/63fb8e09/FunctionBuilder`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/WalletTemplateScene.unity">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Contracts/address.PirateToken.json" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDKTests/Tests/Editor/EvmTests.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/TransferEntry.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/contracts.proto.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/20/b3b51898/Object.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/README.txt" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/09/81566f83/FunctionABI.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/contract.proto" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/Loom.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Protobuf/loom.proto" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/sample.proto" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf/Sample.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/35/e40a5cdb/FunctionCallEncoder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/54/98ae7e65/ParametersEncoder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="29" column="81" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/83/249d9e46/Object.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/7c/6e184f13/FunctionBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <marker date="1558621027869" expanded="true" signature="0:361" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1558621027869" expanded="true" signature="369:483" ph="..." />
-            <marker date="1558621027869" expanded="true" signature="519:2315" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="574:2313" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="691:703" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="772:848" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="995:1089" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="1147:1293" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="1402:1535" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="1696:1797" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="1988:2099" ph="{...}" />
-            <marker date="1558621027869" expanded="true" signature="2219:2309" ph="{...}" />
-=======
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameObject.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/0f/0c4e0115/GameObject.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -1170,70 +449,6 @@
             <marker date="1558638066261" expanded="true" signature="6:40" ph="..." />
             <marker date="1558638066261" expanded="true" signature="80:216" ph="{...}" />
             <marker date="1558638066261" expanded="true" signature="157:214" ph="{...}" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/EvmContract.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/34/93564acc/File.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="463" column="5" lean-forward="true" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBB23573-13CA-41D2-BC38-3FCFD4903E79/01/c267d732/CryptoBytes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="145" column="36" lean-forward="true" selection-start-line="145" selection-start-column="36" selection-end-line="145" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Address.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95F16663-71B7-4D47-83E8-B225EA47BBE1/76/12486458/HexStringUTF8ConvertorExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/AddressJsonConverter.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBB23573-13CA-41D2-BC38-3FCFD4903E79/56/63edfcde/Ed25519.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/CryptoUtils.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/Wallet/Token/ERC20TokenContractClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-943">
-          <folding>
-            <element signature="e#0#222#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-          <folding>
-            <marker date="1558626674752" expanded="false" signature="6:101" ph="..." />
-            <marker date="1558626674752" expanded="true" signature="144:3856" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="1571:1945" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="1966:2471" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="2042:2183" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="2065:2173" ph="/* ... set the colour of the damageImage to the flash colour. ... */" />
-            <marker date="1558626674752" expanded="true" signature="2220:2404" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="2243:2394" ph="/* ... transition the colour back to clear. ... */" />
-            <marker date="1558626674752" expanded="true" signature="2513:3086" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="3004:3080" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="3106:3718" ph="{...}" />
-            <marker date="1558626674752" expanded="true" signature="3215:3357" ph="/* Turn off any remaining shooting effects. ... */" />
-            <marker date="1558626674752" expanded="true" signature="3400:3543" ph="/* Set the audiosource to play the death clip and play it (this will stop the hurt sound from playing). ... */" />
-            <marker date="1558626674752" expanded="true" signature="3582:3712" ph="/* Turn off the movement and shooting scripts. ... */" />
-            <marker date="1558626674752" expanded="true" signature="3752:3854" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1267,82 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
-          <folding>
-            <marker date="1558661934367" expanded="true" signature="55:3217" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="643:712" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="731:3215" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="798:1567" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="1333:1506" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="1602:2297" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="2326:3128" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="2454:2639" ph="{...}" />
-            <marker date="1558661934367" expanded="true" signature="2673:2823" ph="{...}" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/BaseRpcClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/DAppChainClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="166" column="35" selection-start-line="166" selection-start-column="33" selection-end-line="166" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/ContractBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime/Contract.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/49/d09c0430/MonoBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD63B609-CE2C-4373-855F-2001454E6598/db/da91e9ec/Debug.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/749D140F-CA6B-4AC4-BD8A-07D1FB7B39E0/a9/c6be2357/TransactionSignedUnityRequest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Wallet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <marker date="1558663271218" expanded="true" signature="0:5114" ph="/* using System; ... */" />
-=======
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/GunScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1381,38 +520,6 @@
             <marker date="1558672533977" expanded="true" signature="140:197" ph="{...}" />
             <marker date="1558672533977" expanded="true" signature="250:478" ph="{...}" />
             <marker date="1558672533977" expanded="true" signature="523:608" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
-          <folding>
-            <marker date="1558689503978" expanded="true" signature="6:44" ph="..." />
-            <marker date="1558689503978" expanded="true" signature="89:1071" ph="{...}" />
-            <marker date="1558689503978" expanded="true" signature="304:360" ph="{...}" />
-            <marker date="1558689503978" expanded="true" signature="386:635" ph="{...}" />
-            <marker date="1558689503978" expanded="true" signature="531:629" ph="{...}" />
-            <marker date="1558689503978" expanded="true" signature="659:939" ph="{...}" />
-            <marker date="1558689503978" expanded="true" signature="981:1069" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1558688934273" expanded="true" signature="6:40" ph="..." />
-            <marker date="1558688934273" expanded="true" signature="84:1181" ph="{...}" />
-            <marker date="1558688934273" expanded="true" signature="240:548" ph="{...}" />
-            <marker date="1558688934273" expanded="true" signature="568:820" ph="{...}" />
-            <marker date="1558688934273" expanded="true" signature="651:748" ph="{...}" />
-            <marker date="1558688934273" expanded="true" signature="761:814" ph="{...}" />
-            <marker date="1558688934273" expanded="true" signature="853:1179" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1456,64 +563,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/ShooterManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawnPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <marker date="1558600375209" expanded="true" signature="45:1331" ph="{...}" />
-            <marker date="1558600375209" expanded="true" signature="93:1329" ph="{...}" />
-            <marker date="1558600375209" expanded="true" signature="478:686" ph="{...}" />
-            <marker date="1558600375209" expanded="true" signature="710:1323" ph="{...}" />
-            <marker date="1558600375209" expanded="true" signature="733:822" ph="/* If the player has no health left... ... */" />
-            <marker date="1558600375209" expanded="true" signature="853:904" ph="/* ... exit the function. ... */" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
+            <marker date="1558694614590" expanded="true" signature="64:138" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Token/ERC20TokenContractClient.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
-          <caret line="251" column="40" selection-start-line="251" selection-start-column="40" selection-end-line="251" selection-end-column="40" />
+        <state>
           <folding>
-            <marker date="1558696806162" expanded="true" signature="6:335" ph="..." />
-            <marker date="1558696806162" expanded="true" signature="391:17387" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="859:995" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="1061:5486" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="5578:5753" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="5819:5832" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="5925:6023" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="6107:6194" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="6269:6572" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="6638:6783" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="6689:6777" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="6837:8086" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="8117:8301" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="8349:12055" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="8793:8936" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="9185:9291" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="10000:12049" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="10749:10863" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="12153:13833" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="12717:12815" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="13922:17316" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="14344:14488" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="14737:14843" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="16113:16215" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="17378:17385" ph="{...}" />
-            <marker date="1558696806162" expanded="true" signature="17389:24861" ph="/* Abstracts interaction with the Blueprint contract. ... */" />
-=======
-    <entry file="file://$PROJECT_DIR$/Assets/ShooterManager.cs">
+            <marker date="1558661934367" expanded="true" signature="55:3217" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="643:712" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="731:3215" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="798:1567" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="1333:1506" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="1602:2297" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="2326:3128" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="2454:2639" ph="{...}" />
+            <marker date="1558661934367" expanded="true" signature="2673:2823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="585">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
           <folding>
-            <marker date="1558692923784" expanded="true" signature="66:222" ph="{...}" />
-            <marker date="1558692923784" expanded="true" signature="138:150" ph="{...}" />
-            <marker date="1558692923784" expanded="true" signature="208:220" ph="{...}" />
->>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614
+            <marker date="1558697792378" expanded="true" signature="6:41" ph="..." />
+            <marker date="1558697792378" expanded="true" signature="85:1434" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="155:493" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="295:430" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="511:1432" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="801:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1558697792362" expanded="true" signature="45:1346" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="93:1344" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="446:653" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="676:1338" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="699:788" ph="/* If the player has no health left... ... */" />
+            <marker date="1558697792362" expanded="true" signature="819:870" ph="/* ... exit the function. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+          <folding>
+            <marker date="1558699630122" expanded="true" signature="6:40" ph="..." />
+            <marker date="1558699630122" expanded="true" signature="84:1181" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="240:548" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="568:820" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="651:748" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="761:814" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="853:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <marker date="1558693332879" expanded="false" signature="6:101" ph="..." />
+            <marker date="1558693332879" expanded="true" signature="144:3949" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="1557:1917" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="1759:1871" ph="/* playerShooting = GetComponentInChildren &lt;PlayerShooting&gt; (); ... */" />
+            <marker date="1558693332879" expanded="true" signature="1938:2443" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="2014:2155" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="2037:2145" ph="/* ... set the colour of the damageImage to the flash colour. ... */" />
+            <marker date="1558693332879" expanded="true" signature="2192:2376" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="2215:2366" ph="/* ... transition the colour back to clear. ... */" />
+            <marker date="1558693332879" expanded="true" signature="2485:3191" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="3042:3185" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="3211:3811" ph="{...}" />
+            <marker date="1558693332879" expanded="true" signature="3320:3462" ph="/* Turn off any remaining shooting effects. ... */" />
+            <marker date="1558693332879" expanded="true" signature="3845:3947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <marker date="1558699520751" expanded="true" signature="6:44" ph="..." />
+            <marker date="1558699520751" expanded="true" signature="89:864" ph="{...}" />
+            <marker date="1558699520751" expanded="true" signature="304:360" ph="{...}" />
+            <marker date="1558699520751" expanded="true" signature="386:428" ph="{...}" />
+            <marker date="1558699520751" expanded="true" signature="452:732" ph="{...}" />
+            <marker date="1558699520751" expanded="true" signature="774:862" ph="{...}" />
           </folding>
         </state>
       </provider>
