@@ -19,12 +19,7 @@ public class EnemyGunScript : MonoBehaviour
 
     public void Update()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.right - transform.position);
-
-        if (hit.collider != null)
-        {
-            if (hit.collider.gameObject.name == "Player" && canShoot) Fire();
-        }
+        if (canShoot) Fire();
     }
 
     public void Fire()

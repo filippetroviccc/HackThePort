@@ -182,6 +182,7 @@
             <e p="EnemyHealth.cs" t="Include" />
             <e p="EnemyMovement.cs" t="Include" />
           </e>
+          <e p="EnemySpawnPoint.cs" t="Include" />
           <e p="Hud" t="Include">
             <e p="BulletHud.cs" t="Include" />
           </e>
@@ -193,6 +194,7 @@
             <e p="GameOverManager.cs" t="Include" />
             <e p="PauseManager.cs" t="Include" />
             <e p="ScoreManager.cs" t="Include" />
+            <e p="ShooterManager.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
             <e p="GunScript.cs" t="Include" />
@@ -206,9 +208,10 @@
           <e p="Util" t="Include">
             <e p="CameraFolow.cs" t="Include" />
             <e p="FadeOut.cs" t="Include" />
+            <e p="SectionPassReporter.cs" t="Include" />
+            <e p="StairwalkScalling.cs" t="Include" />
           </e>
         </e>
-        <e p="ShooterManager.cs" t="Include" />
       </e>
       <e p="HackThePort.sln" t="IncludeFlat" />
       <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
