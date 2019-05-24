@@ -9,10 +9,32 @@ public class GameManager : MonoBehaviour
 
     private int currentLevel = 1;
 
+    public ERC20TokenContractClient.KeyPair playerAccount;
+    public ERC20TokenContractClient.KeyPair enemyAccount;
+    public ERC20TokenContractClient erc20;
+
+    public static GameManager Instance {
+        get {
+            return singletonInstance;
+        }
+    }
+    private static GameManager singletonInstance;
+
     // Start is called before the first frame update
     void Start()
     {
+        if(singletonInstance != null)
+        {
+            Debug.LogError("Two game managers detected!");
+        } else
+        {
+            singletonInstance = this;
+        }
         DontDestroyOnLoad(gameObject);
+        erc20 = GetComponent<ERC20TokenContractClient>();
+        //StartCoroutine(erc20.DeployAndFillAccounts());
+        playerAccount = erc20.getPlayerAccount();
+        playerAccount = erc20.GetRandomAccount();
     }
 
     public void OnStartGameButton()

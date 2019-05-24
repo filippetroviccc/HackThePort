@@ -115,7 +115,7 @@ public class ERC20TokenContractClient : MonoBehaviour {
         this.privateKeys[4] = "0xe5d44b3c9dcd296451878ede8cd9fe383c7078a0f5f4f02dd72f7b0308a";
         this.privateKeys[5] = "0xe23192f0a0daab4c9746b4ff1e4170be1af46e5ebffda9eee5ef87e5af01d8";
         this.privateKeys[6] = "0xa3a838f51497d40e89c15ab2c05f647997fdbff100cb9a5a964e5a565093ec51";
-        StartCoroutine(AAAA());
+        //StartCoroutine(AAAA());
     }
 
     public IEnumerator AAAA()
@@ -134,7 +134,7 @@ public class ERC20TokenContractClient : MonoBehaviour {
         
         var deployContract = new EIP20Deployment()
         {
-            InitialAmount = 10000,
+            InitialAmount = 999999999,
             FromAddress = filler,
             TokenName = "TST",
             TokenSymbol = "TST"
@@ -181,7 +181,7 @@ public class ERC20TokenContractClient : MonoBehaviour {
             {
                 FromAddress = filler,
                 To = newAddress,
-                Value = 10,
+                Value = 9999,
             };
 
             yield return transactionTransferRequest.SignAndSendTransaction(transactionMessage, deploymentReceipt.ContractAddress);
@@ -335,6 +335,29 @@ public class ERC20TokenContractClient : MonoBehaviour {
     void Update () {
 		
 	}
+
+    public struct KeyPair
+    {
+        public string pub;
+        public string priv;
+    }
+
+    public KeyPair GetRandomAccount()
+    {
+        int index = Random.RandomRange(1, this.accounts.Length - 1);
+        KeyPair result = new KeyPair();
+        result.pub = this.accounts[index];
+        result.priv = this.privateKeys[index];
+        return result;
+    }
+
+    public KeyPair getPlayerAccount()
+    {
+        KeyPair result = new KeyPair();
+        result.pub = accounts[0];
+        result.priv = privateKeys[0];
+        return result;
+    }
 }
 
 /// <summary>
