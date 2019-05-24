@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-guid: 887ac3af7d83e5e42a6816ec89895b90
+guid: c3dbdcff52e0548468186fafdd1a7901
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8388415905783330698
-    second: enemy_sword_2_0
+      213: 5571816519261145967
+    second: enemy_walk_2_0
   - first:
-      213: 1309923951395798713
-    second: enemy_sword_2_1
-  - first:
-      213: -6722042539754176387
-    second: enemy_sword_2_2
-  - first:
-      213: 4272687580174773341
-    second: enemy_sword_2_3
+      213: 3396265699165639182
+    second: enemy_walk_2_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -110,85 +104,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy_sword_2_0
+      name: enemy_walk_2_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1048
-        width: 738
-        height: 855
+        x: 111
+        y: 215
+        width: 551
+        height: 808
       alignment: 9
-      pivot: {x: 0.33617005, y: 0.4804949}
+      pivot: {x: 0.31840184, y: 0.47420064}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 124d08362afe9904e96f39d653cda88d
-      internalID: 8388415905783330698
+      spriteID: e2908d7e429ebfc4abe084a2968921b9
+      internalID: 5571816519261145967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy_sword_2_1
+      name: enemy_walk_2_1
       rect:
         serializedVersion: 2
-        x: 782
-        y: 1115
-        width: 676
-        height: 792
+        x: 778
+        y: 198
+        width: 634
+        height: 825
       alignment: 9
-      pivot: {x: 0.2409677, y: 0.4263022}
+      pivot: {x: 0.30929574, y: 0.47473195}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f47093426e7a6fe4a9ae095c3791bfd7
-      internalID: 1309923951395798713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_sword_2_2
-      rect:
-        serializedVersion: 2
-        x: 1512
-        y: 1044
-        width: 813
-        height: 859
-      alignment: 9
-      pivot: {x: 0.26410505, y: 0.47087863}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d18c19e356fb2f04cb758ad1be7649d0
-      internalID: -6722042539754176387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_sword_2_3
-      rect:
-        serializedVersion: 2
-        x: 2358
-        y: 994
-        width: 847
-        height: 905
-      alignment: 9
-      pivot: {x: 0.2046619, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b30b3c7cedc77eb48b36b77272af2af0
-      internalID: 4272687580174773341
+      spriteID: ba15d649b0322be41ad7b4d02a165cc1
+      internalID: 3396265699165639182
       vertices: []
       indices: 
       edges: []

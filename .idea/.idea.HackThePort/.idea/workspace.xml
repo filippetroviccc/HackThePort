@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a554d6b-2192-4109-a745-4b65d7813d06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackThePort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AnimationSprites/player_idle.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AnimationSprites/player_shooting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AnimationSprites/player_swingingSword.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AnimationSprites/player_walking.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Contracts.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/EnemyBullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyBullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/EnemyShooting.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyShooting.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ShooterManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ShooterManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Ship/Enemy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Wallet/Token.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Samples/Protobuf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/loomSDK/LoomSDK/Source/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_puc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_puc.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_sword_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Enemy Animation/Enemy2/enemy_sword_2.png.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="343">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
               <folding>
                 <marker date="1558699520751" expanded="true" signature="6:44" ph="..." />
                 <marker date="1558699520751" expanded="true" signature="89:864" ph="{...}" />
@@ -63,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
-              <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+              <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
               <folding>
                 <marker date="1558699630122" expanded="true" signature="6:40" ph="..." />
                 <marker date="1558699630122" expanded="true" signature="84:1181" ph="{...}" />
@@ -106,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <marker date="1558697792362" expanded="true" signature="45:1346" ph="{...}" />
                 <marker date="1558697792362" expanded="true" signature="93:1344" ph="{...}" />
@@ -379,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49558000" />
+    <option name="totallyTimeSpent" value="50763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,6 +597,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+          <folding>
+            <marker date="1558697792378" expanded="true" signature="6:41" ph="..." />
+            <marker date="1558697792378" expanded="true" signature="85:1434" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="155:493" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="295:430" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="511:1432" ph="{...}" />
+            <marker date="1558697792378" expanded="true" signature="801:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1558697792362" expanded="true" signature="45:1346" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="93:1344" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="446:653" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="676:1338" ph="{...}" />
+            <marker date="1558697792362" expanded="true" signature="699:788" ph="/* If the player has no health left... ... */" />
+            <marker date="1558697792362" expanded="true" signature="819:870" ph="/* ... exit the function. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+          <folding>
+            <marker date="1558699630122" expanded="true" signature="6:40" ph="..." />
+            <marker date="1558699630122" expanded="true" signature="84:1181" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="240:548" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="568:820" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="651:748" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="761:814" ph="{...}" />
+            <marker date="1558699630122" expanded="true" signature="853:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -632,40 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ShooterManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-          <folding>
-            <marker date="1558697792378" expanded="true" signature="6:41" ph="..." />
-            <marker date="1558697792378" expanded="true" signature="85:1434" ph="{...}" />
-            <marker date="1558697792378" expanded="true" signature="155:493" ph="{...}" />
-            <marker date="1558697792378" expanded="true" signature="295:430" ph="{...}" />
-            <marker date="1558697792378" expanded="true" signature="511:1432" ph="{...}" />
-            <marker date="1558697792378" expanded="true" signature="801:918" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EnemyManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding>
-            <marker date="1558697792362" expanded="true" signature="45:1346" ph="{...}" />
-            <marker date="1558697792362" expanded="true" signature="93:1344" ph="{...}" />
-            <marker date="1558697792362" expanded="true" signature="446:653" ph="{...}" />
-            <marker date="1558697792362" expanded="true" signature="676:1338" ph="{...}" />
-            <marker date="1558697792362" expanded="true" signature="699:788" ph="/* If the player has no health left... ... */" />
-            <marker date="1558697792362" expanded="true" signature="819:870" ph="/* ... exit the function. ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyGunScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="343">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
           <folding>
             <marker date="1558699520751" expanded="true" signature="6:44" ph="..." />
             <marker date="1558699520751" expanded="true" signature="89:864" ph="{...}" />
@@ -673,22 +677,6 @@
             <marker date="1558699520751" expanded="true" signature="386:428" ph="{...}" />
             <marker date="1558699520751" expanded="true" signature="452:732" ph="{...}" />
             <marker date="1558699520751" expanded="true" signature="774:862" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
-          <folding>
-            <marker date="1558699630122" expanded="true" signature="6:40" ph="..." />
-            <marker date="1558699630122" expanded="true" signature="84:1181" ph="{...}" />
-            <marker date="1558699630122" expanded="true" signature="240:548" ph="{...}" />
-            <marker date="1558699630122" expanded="true" signature="568:820" ph="{...}" />
-            <marker date="1558699630122" expanded="true" signature="651:748" ph="{...}" />
-            <marker date="1558699630122" expanded="true" signature="761:814" ph="{...}" />
-            <marker date="1558699630122" expanded="true" signature="853:1179" ph="{...}" />
           </folding>
         </state>
       </provider>
