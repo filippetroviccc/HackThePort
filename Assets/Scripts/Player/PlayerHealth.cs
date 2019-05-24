@@ -12,6 +12,9 @@ public class PlayerHealth : MonoBehaviour
     public AudioClip deathClip;                                 // The audio clip to play when the player dies.
     public float flashSpeed = 5f;                               // The speed the damageImage will fade at.
     public Color flashColour = new Color(1f, 0f, 0f, 0.1f);     // The colour the damageImage is set to, to flash.
+    public GameObject menu;
+    public Button resetButton;
+    public Button continueButton;
 
 
     Animator anim;                                              // Reference to the Animator component.
@@ -41,13 +44,13 @@ public class PlayerHealth : MonoBehaviour
         if(damaged)
         {
             // ... set the colour of the damageImage to the flash colour.
-            //damageImage.color = flashColour;
+            damageImage.color = flashColour;
         }
         // Otherwise...
         else
         {
             // ... transition the colour back to clear.
-            //damageImage.color = Color.Lerp (damageImage.color, Color.clear, flashSpeed * Time.deltaTime);
+            damageImage.color = Color.Lerp(damageImage.color, Color.clear, flashSpeed * Time.deltaTime);
         }
 
         // Reset the damaged flag.
@@ -74,7 +77,7 @@ public class PlayerHealth : MonoBehaviour
         {
             // ... it should die.
             Death ();
-            FindObjectOfType<GameManager>().RestartCurrentLevel();
+            ShowRestartLevel();
         }
     }
 
@@ -100,9 +103,11 @@ public class PlayerHealth : MonoBehaviour
     }
 
 
-    public void RestartLevel ()
+    public void ShowRestartLevel ()
     {
         // Reload the level that is currently loaded.
-        SceneManager.LoadScene (0);
+        menu.gameObject.SetActive(true);
+        resetButton.gameObject.SetActive(true);
+        continueButton.gameObject.SetActive(false);
     }
 }

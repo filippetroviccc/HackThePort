@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Token/ERC20TokenContractClient.cs.meta
+guid: 4e0a160b6c4e49a1854f2b1c4864def6
+=======
+guid: 69fa4f647e3f44d4fac10fd739f1fde5
+>>>>>>> b4b3df7dd99b09673566ad73bc9872b884a40614:Assets/NavMeshPlus/NavMeshComponents/Editor/NavMeshSurfaceEditor2d.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
