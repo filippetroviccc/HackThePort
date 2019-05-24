@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public int levelCount = 2;
 
-    private int currentLevel;
+    private int currentLevel = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     private void LoadLevel(int levelNumber)
     {
-        if(currentLevel < levelCount)
+        if(currentLevel <= levelCount)
         {
             SceneManager.LoadScene("Level" + levelNumber.ToString());
         } else
